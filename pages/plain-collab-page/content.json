@@ -515,40 +515,6 @@
         }
       ],
       "children": []
-    },
-    {
-      "id": "cc-probe-a",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Probe A (agent block) — updated with the insert's new_sha",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cc-probe-b",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Probe B (typing here): one two three",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ]
 }
