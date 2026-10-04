@@ -5,7 +5,7 @@
   "slides": [
     {
       "id": "2b2add7c",
-      "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit Together!<span style=\"font-weight: inherit;\">&nbsp;</span></p><p>What I can say is&nbsp;</p><p>it is fun to be togeth'r</p><p>editing&nbsp;</p></div></div>",
+      "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit Together!<span style=\"font-weight: inherit;\">&nbsp;</span></p><p>What I can say is&nbsp;</p><p>it is fun to be togeth'r</p><p>editing a deck</p></div></div>",
       "attrs": {
         "spellcheck": "false",
         "data-background-color": "#f6f5fb",
