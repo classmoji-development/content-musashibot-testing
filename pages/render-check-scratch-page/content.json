@@ -4,11 +4,45 @@
       "id": "p1",
       "type": "paragraph",
       "props": {
-        "textColor": "default",
         "backgroundColor": "default",
+        "textColor": "default",
         "textAlignment": "left"
       },
       "content": [],
+      "children": []
+    },
+    {
+      "id": "rc-h",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Render check",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "rc-code",
+      "type": "codeBlock",
+      "props": {
+        "language": "javascript"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "const aVeryLongLineThatWillNotFit = someFunction(argumentNumberOne, argumentNumberTwo, argumentNumberThree, argumentNumberFour);",
+          "styles": {}
+        }
+      ],
       "children": []
     }
   ]
