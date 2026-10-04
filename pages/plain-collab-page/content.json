@@ -20,6 +20,45 @@
       "children": []
     },
     {
+      "id": "60da4d1c-bac2-404a-a36d-eafec35fd1cf",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "38e4fe7e-a187-4cdc-8aab-0d8a56ac3abd",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "HEY GUYS - lets format this a bit cleaner eh?  ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0d0f69fb-57cd-454e-abb5-3d52c4ac2c71",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
       "id": "poem-1",
       "type": "paragraph",
       "props": {
