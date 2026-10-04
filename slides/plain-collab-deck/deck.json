@@ -84,7 +84,7 @@
     },
     {
       "id": "78e11bed",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>",
+      "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 82px; top: 486px; width: 400px; height: auto;\"><div class=\"sl-block-content\"><p>Click to ed text...</p></div></div>",
       "attrs": {
         "spellcheck": "false"
       }
