@@ -4,6 +4,7 @@
     "pages": [
       "checkpoint-worker-test-a",
       "checkpoint-worker-test-b",
+      "kitchen-sink-page",
       "plain-collab-page"
     ],
     "slides": []
