@@ -2,7 +2,8 @@
   "repositories": {},
   "general": {
     "pages": [
-      "checkpoint-worker-test-a"
+      "checkpoint-worker-test-a",
+      "checkpoint-worker-test-b"
     ],
     "slides": []
   }
