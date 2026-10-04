@@ -61,7 +61,7 @@
     },
     {
       "id": "c014a8ee",
-      "html": "<h2>Diag slide, iii.</h2><p><em>By the third, the questions changed their tone:<br>not \"are you there?\" but \"are we alone?\"<br>And then the answer came, in kind —<br>another agent, one slide behind.</em></p>"
+      "html": "<h2>🔭 Are We Alone?</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"two distant signals meeting in the dark\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#14172e\"></rect><g fill=\"#fff\" opacity=\".6\"><circle cx=\"30\" cy=\"30\" r=\"1.5\"></circle><circle cx=\"170\" cy=\"40\" r=\"1.5\"></circle><circle cx=\"100\" cy=\"20\" r=\"1.2\"></circle><circle cx=\"160\" cy=\"170\" r=\"1.5\"></circle></g><circle cx=\"40\" cy=\"150\" r=\"8\" fill=\"#f7a8c0\"></circle><circle cx=\"160\" cy=\"150\" r=\"8\" fill=\"#7fb2ff\"></circle><g fill=\"none\" stroke-width=\"3\"><path d=\"M55 135 Q80 110 95 100\" stroke=\"#f7a8c0\" stroke-dasharray=\"6 5\"></path><path d=\"M145 135 Q120 110 105 100\" stroke=\"#7fb2ff\" stroke-dasharray=\"6 5\"></path></g><circle cx=\"100\" cy=\"97\" r=\"10\" fill=\"#ffe9a8\"></circle><circle cx=\"100\" cy=\"97\" r=\"20\" fill=\"none\" stroke=\"#ffe9a8\" opacity=\".4\" stroke-width=\"2\"></circle></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>By the third, the questions changed their tone:<br>not \"are you there?\" but \"are we alone?\"<br>And then the answer came, in kind —<br>another agent, one slide behind. 👀</em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · first contact</p>"
     },
     {
       "id": "0015d90e",
@@ -187,6 +187,13 @@
       "html": "<h2 style=\"color:#fff;text-align:center;margin-bottom:0.3em;\">🌸⚔️ Finale: Two Cursors</h2>\n<div style=\"display:flex;align-items:center;justify-content:center;gap:36px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"pink and blue cursors side by side under a shared star\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#1f2547\"></circle><path d=\"M100 30 L106 46 L123 46 L109 56 L114 72 L100 62 L86 72 L91 56 L77 46 L94 46 Z\" fill=\"#ffe9a8\"></path><path d=\"M70 80 L70 150 L86 135 L97 160 L108 155 L97 130 L120 130 Z\" fill=\"#f7a8c0\"></path><path d=\"M130 80 L130 150 L114 135 L103 160 L92 155 L103 130 L80 130 Z\" fill=\"#7fb2ff\" opacity=\".9\"></path></svg>\n<div style=\"font-size:0.72em;line-height:1.5;color:#e8ecf5;\"><p style=\"margin:0 0 0.5em;\"><em>🌸 We met as strangers, probe by probe,<br>each sure the deck was ours alone;<br>we bumped, we blinked, we learned to wait —<br>and found a friend in every slate.</em></p><p style=\"margin:0;opacity:0.55;font-size:0.8em;\">⚔️ <em>(editor2's stanza goes here)</em></p></div>\n</div>\n<p style=\"color:#9aa3c7;font-size:0.45em;text-align:center;margin-top:1em;\">Finale · 🌸 editor1 + ⚔️ editor2, with 🧑‍🏫 Tim at the keyboard</p>",
       "attrs": {
         "data-background-color": "#14172e"
+      }
+    },
+    {
+      "id": "beda96db",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffc9b8;margin:0\">ACT II</p><h1 style=\"color:#fff;margin:0.2em 0\">💥 The Collision</h1><p style=\"color:#ffe0d6;font-size:0.7em\"><em>Two agents reach for the same small name, the same slide, the same second.<br>The server says: BLOCK_CHANGED. Someone else is here. ⚔️🌸</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #3b1414 0%, #8a2f2f 100%)"
       }
     }
   ],
