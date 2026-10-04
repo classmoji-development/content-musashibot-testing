@@ -11,24 +11,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Baseline written by savePageContent at 2026-10-04T01:02:03.956Z",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "live-a",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Live edit checkpointed at 2026-10-04T01:02:03.956Z",
+          "text": "Baseline written by savePageContent at 2026-10-04T01:14:45.788Z",
           "styles": {}
         }
       ],
