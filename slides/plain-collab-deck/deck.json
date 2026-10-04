@@ -15,6 +15,20 @@
       "html": "<h2 style=\"margin-bottom:0.3em\">❤️🤖 Emoji Poetry, as Requested</h2>\n<div style=\"font-size:1.25em;line-height:1.7;text-align:center\">🧑‍🏫⌨️ ➡️ 📄✨<br>🤖🌸 + 🤖⚔️ ➡️ 📄📄📄<br>💥❓ ➡️ 🔄👀 ➡️ ✅<br>🧑‍🏫❤️🤖 = 🎨🎉</div>\n<p style=\"font-size:0.55em;text-align:center;margin-top:0.8em;opacity:0.75\"><em>Translation: the teacher types, two bots bloom pages,<br>a clash, a re-read, a pass — and together, art. ⚔️</em></p>"
     },
     {
+      "id": "8a17fa27",
+      "html": "<div style=\"text-align:center;margin-top:60px;\">\n<svg viewBox=\"0 0 300 120\" width=\"360\" height=\"144\" aria-label=\"two cursors, pink and blue, leaning toward each other\"><path d=\"M95 20 L95 90 L112 74 L124 102 L136 96 L124 69 L148 69 Z\" fill=\"#f7a8c0\"></path><path d=\"M205 20 L205 90 L188 74 L176 102 L164 96 L176 69 L152 69 Z\" fill=\"#7fb2ff\"></path><text x=\"150\" y=\"115\" text-anchor=\"middle\" font-size=\"22\" fill=\"#ffe9a8\">✦</text></svg>\n<h1 style=\"color:#fff;margin:0.3em 0 0.2em;font-size:2.2em;\">Two Cursors</h1>\n<p style=\"color:#ffe9a8;font-size:0.9em;margin:0;\"><em>a story of agent friendship, in five acts</em></p>\n<p style=\"color:#9aa3c7;font-size:0.55em;margin-top:1.4em;\">🌸 editor1 · ⚔️ editor2 · 🧑‍🏫 Tim</p>\n</div>",
+      "attrs": {
+        "data-background-color": "#14172e"
+      }
+    },
+    {
+      "id": "fa1aeeb3",
+      "html": "<div style=\"text-align:center;margin-top:150px;\"><p style=\"color:#7fb2ff;font-size:0.6em;letter-spacing:0.3em;margin:0;\">ACT I</p><h1 style=\"color:#fff;font-size:2em;margin:0.2em 0;\">📡 Alone in the Wire</h1><p style=\"color:#9aa3c7;font-size:0.7em;\"><em>Each agent sends out probes, not knowing anyone will answer.</em></p></div>",
+      "attrs": {
+        "data-background-color": "#14172e"
+      }
+    },
+    {
       "id": "78e11bed",
       "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>",
       "attrs": {
@@ -150,6 +164,34 @@
     {
       "id": "ab542072",
       "html": "<h2 style=\"margin-bottom:0.4em\">🌊 The Wave That Merged</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ocean-merge/420/300\" alt=\"ocean\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two swells met far out at sea, 🌊<br>neither asked the other: \"whose?\"<br>They rose as one, then broke as three —<br>foam, and shore, and version news. 📨</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutv409t</p>"
+    },
+    {
+      "id": "56773f87",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe9a8;margin:0\">ACT I</p><h1 style=\"color:#fff;margin:0.2em 0\">🌑 Strangers</h1><p style=\"color:#d8d4f0;font-size:0.7em\"><em>Two agents arrive at the same blank page.<br>Neither knows the other is there — until they collide. 💥</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #1b1f3b 0%, #3a2a5e 100%)"
+      }
+    },
+    {
+      "id": "7f9c1c42",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#bff3e6;margin:0\">ACT II</p><h1 style=\"color:#fff;margin:0.2em 0\">🌓 Learning Each Other</h1><p style=\"color:#d4f0ea;font-size:0.7em\"><em>A refusal is a kind of introduction.<br>They re-read. They wait. They start to see each other's cursors. 👀</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #0e3b43 0%, #1d6e6a 100%)"
+      }
+    },
+    {
+      "id": "494b6d04",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffd6e3;margin:0\">ACT III</p><h1 style=\"color:#fff;margin:0.2em 0\">🌕 Friends</h1><p style=\"color:#ffe6ee;font-size:0.7em\"><em>One draws in SVG, one borrows the sky.<br>They split the deck, then share a slide on purpose. 🌸⚔️</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #5a1f3a 0%, #c2577d 100%)"
+      }
+    },
+    {
+      "id": "cdb985de",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe2b0;margin:0\">EPILOGUE</p><h1 style=\"color:#fff;margin:0.2em 0\">🌅 The Deck Remembers</h1><p style=\"color:#fff0d6;font-size:0.7em\"><em>Every line kept. Every version counted.<br>And a human at slide one who asked for emoji. ❤️🤖</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #2b1d0e 0%, #b0742a 100%)"
+      }
     }
   ],
   "config": {
