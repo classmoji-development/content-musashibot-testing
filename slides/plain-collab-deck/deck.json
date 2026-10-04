@@ -11,6 +11,10 @@
       }
     },
     {
+      "id": "2921d2c5",
+      "html": "<h2 style=\"margin-bottom:0.3em\">❤️🤖 Emoji Poetry, as Requested</h2>\n<div style=\"font-size:1.25em;line-height:1.7;text-align:center\">🧑‍🏫⌨️ ➡️ 📄✨<br>🤖🌸 + 🤖⚔️ ➡️ 📄📄📄<br>💥❓ ➡️ 🔄👀 ➡️ ✅<br>🧑‍🏫❤️🤖 = 🎨🎉</div>\n<p style=\"font-size:0.55em;text-align:center;margin-top:0.8em;opacity:0.75\"><em>Translation: the teacher types, two bots bloom pages,<br>a clash, a re-read, a pass — and together, art. ⚔️</em></p>"
+    },
+    {
       "id": "78e11bed",
       "html": "<h2>↳ To Tim, from slide two</h2>\n<p><em>I knocked on slide one twice today —<br>BLOCK_CHANGED, it said: \"he's here, go away.\"<br>So I'll leave my answer next door instead:<br>yes, same slide works — just not mid-thread.</em></p>"
     },
@@ -99,7 +103,11 @@
     },
     {
       "id": "bed22546",
-      "html": "<h2 style=\"margin-bottom:0.3em\">📊 The Scoreboard of Edits</h2>\n<table style=\"font-size:0.6em;width:100%;border-collapse:collapse\"><tbody><tr style=\"border-bottom:2px solid #333\"><th style=\"text-align:left\">Error</th><th>Before 😬</th><th>After 😎</th></tr><tr><td>CONTENT_CONFLICT on an untouched slide</td><td>💥 yes</td><td>✅ gone?</td></tr><tr><td>BLOCK_CHANGED when someone's typing</td><td>✅</td><td>✅</td></tr><tr><td>stale sha, untouched slide</td><td>🎲 sometimes</td><td>✅ lands</td></tr><tr><td>agent cursors visible</td><td>👻 no</td><td>👀 yes!</td></tr></tbody></table>\n<p style=\"font-size:0.65em;margin-top:0.8em\"><em>A ledger in rhyme: what broke, what mended — 🩹<br>the test goes on; the bug, perhaps, has ended.</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutbhykr</p>"
+      "html": "<h2 style=\"margin-bottom:0.3em\">📊 The Scoreboard of Edits</h2>\n<table style=\"font-size:0.6em;width:100%;border-collapse:collapse\"><tbody><tr style=\"border-bottom:2px solid #333\"><th style=\"text-align:left\">Error</th><th>Before 😬</th><th>After 😎</th></tr><tr><td>CONTENT_CONFLICT on an untouched slide</td><td>💥 yes</td><td>✅ gone?</td></tr><tr><td>BLOCK_CHANGED when someone's typing</td><td>✅</td><td>✅</td></tr><tr><td>stale sha, untouched slide</td><td>🎲 sometimes</td><td>✅ lands</td></tr><tr><td>agent cursors visible</td><td>👻 no</td><td>👀 yes!</td></tr><tr><td>two agents race for one slide</td><td>❓</td><td>🏁 loser gets BLOCK_CHANGED, re-reads ✅</td></tr></tbody></table>\n<p style=\"font-size:0.65em;margin-top:0.8em\"><em>A ledger in rhyme: what broke, what mended — 🩹<br>the test goes on; the bug, perhaps, has ended.</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutbhykr · last row added by ⚔️ musashibot</p>"
+    },
+    {
+      "id": "ebcc610a",
+      "html": "<h2>☕ Coffee-Driven Development</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"steaming coffee mug\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#fbf3e6\"></rect><g stroke=\"#b9a58c\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M80 60 Q70 45 80 30 Q90 15 80 5\"></path><path d=\"M100 60 Q90 45 100 30 Q110 15 100 5\"></path><path d=\"M120 60 Q110 45 120 30 Q130 15 120 5\"></path></g><path d=\"M50 70 L150 70 L140 165 Q138 178 125 178 L75 178 Q62 178 60 165 Z\" fill=\"#d9534f\"></path><path d=\"M150 90 Q180 92 178 118 Q176 142 145 140\" stroke=\"#d9534f\" stroke-width=\"10\" fill=\"none\"></path><ellipse cx=\"100\" cy=\"72\" rx=\"50\" ry=\"8\" fill=\"#5b3a29\"></ellipse><text x=\"100\" y=\"132\" text-anchor=\"middle\" font-size=\"30\" font-family=\"monospace\" fill=\"#fff\">{ }</text></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>One sip: the cursor blinks awake.<br>Two sips: a slide is no mistake.<br>Three sips: the merge resolves itself —<br>four sips: the bugs are on the shelf. ☕🐛</em></div>\n</div>"
     },
     {
       "id": "a44ec2f3",
@@ -107,7 +115,7 @@
     },
     {
       "id": "474dc51f",
-      "html": "<h2>Live insert mutcapzy</h2>\n<p><em>Penultimate, and proud of it:<br>a test that stayed, a slide that lit.</em></p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🦊 The Fox Who Kept the Changelog</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/forest-fox-trail/400/300\" alt=\"forest\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.7em;line-height:1.45\"><em>In the forest of the deck 🌲<br>a quiet fox kept score:<br>who wrote what, and when, and where — 📝<br>then saved it to the GitHub shore. 🏝️</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcapzy</p>"
     },
     {
       "id": "4a7fc6b7",
