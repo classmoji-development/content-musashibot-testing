@@ -7,6 +7,8 @@
       "kitchen-sink-page",
       "plain-collab-page"
     ],
-    "slides": []
+    "slides": [
+      "plain-collab-deck"
+    ]
   }
 }
