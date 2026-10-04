@@ -1,14 +1,20 @@
 {
   "blocks": [
     {
-      "id": "p1",
+      "id": "live-b",
       "type": "paragraph",
       "props": {
-        "textColor": "default",
         "backgroundColor": "default",
+        "textColor": "default",
         "textAlignment": "left"
       },
-      "content": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "Page B live at 2026-10-04T01:02:03.956Z",
+          "styles": {}
+        }
+      ],
       "children": []
     }
   ]
