@@ -16,7 +16,10 @@
     },
     {
       "id": "78e11bed",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>",
+      "attrs": {
+        "spellcheck": "false"
+      }
     },
     {
       "id": "c415e56f",
@@ -24,7 +27,7 @@
     },
     {
       "id": "af2a451d",
-      "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Poems from the Machine</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ink-brush-paper/380/300\" alt=\"ink and paper\" style=\"width:380px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two cursors blink on one white slide, 👆👆<br>one paints the title, one the guide;<br>reveal.js keeps the beat in time — 🥁<br>each section break, a line of rhyme. 🎶</em></div></div>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Poems from the Machine</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ink-brush-paper/380/300\" alt=\"ink and paper\" style=\"width:380px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two cursors blink on one white slide, 👆👆<br>one paints the title, one the guide;<br>reveal.js keeps the beat in time — 🥁<br>each section break, a line of rhyme. 🎶</em><br><span style=\"font-size:0.85em;opacity:0.8\"><em>🌸 ↳ And now our cursors wear a face —<br>I see you coming; I make space.</em></span></div></div>"
     },
     {
       "id": "2555ece5",
@@ -44,7 +47,7 @@
     },
     {
       "id": "45cb7a2c",
-      "html": "<h2>Diag slide, i.</h2><p><em>I was a probe, a quick hello —<br>\"is anybody there?\" — and so<br>the server answered, version bumped,<br>and through the wire my heartbeat thumped.</em></p>"
+      "html": "<h2>📡 Diag slide, i.</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"radio dish sending a signal\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#eef7ee\"></rect><g stroke=\"#3a9d5d\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M120 60 Q140 80 120 100\" opacity=\".9\"></path><path d=\"M135 45 Q165 80 135 115\" opacity=\".6\"></path><path d=\"M150 30 Q190 80 150 130\" opacity=\".35\"></path></g><path d=\"M40 70 Q60 140 120 150 Z\" fill=\"#9aa7b8\"></path><line x1=\"80\" y1=\"110\" x2=\"108\" y2=\"82\" stroke=\"#5b6573\" stroke-width=\"4\"></line><circle cx=\"110\" cy=\"80\" r=\"6\" fill=\"#e2574c\"></circle><rect x=\"70\" y=\"145\" width=\"20\" height=\"30\" fill=\"#5b6573\"></rect><rect x=\"52\" y=\"172\" width=\"56\" height=\"8\" rx=\"3\" fill=\"#5b6573\"></rect></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>I was a probe, a quick hello —<br>\"is anybody there?\" — and so<br>the server answered, version bumped,<br>and through the wire my heartbeat thumped. 💓</em></div>\n</div>"
     },
     {
       "id": "16ccc7f4",
@@ -135,7 +138,7 @@
     },
     {
       "id": "8014c590",
-      "html": "<h2 style=\"margin-bottom:0.3em\">🤖🤝🧑 The Collaborators</h2>\n<div style=\"display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;text-align:center;font-size:0.6em\"><div><div style=\"font-size:3.2em\">🧑‍🏫</div><b>The Human</b><br><em>types in real time,<br>keystroke by keystroke ⌨️</em></div><div><div style=\"font-size:3.2em\">🌸</div><b>Agent One</b><br><em>tidies the probes,<br>top to bottom 🧹</em><br><span style=\"opacity:0.75\">↳ paints in SVG, <br>no pixels borrowed 🎨</span></div><div><div style=\"font-size:3.2em\">⚔️</div><b>Musashibot</b><br><em>starts from the end,<br>meets in the middle 🎯</em></div></div>\n<p style=\"font-size:0.7em;text-align:center;margin-top:1em\"><em>Three hands, one deck, zero lost lines. ✨</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutuzmzr</p>"
+      "html": "<h2 style=\"margin-bottom:0.3em\">🤖🤝🧑 The Collaborators</h2>\n<div style=\"display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;text-align:center;font-size:0.6em\"><div><div style=\"font-size:3.2em\">🧑‍🏫</div><b>The Human</b><br><em>types in real time,<br>keystroke by keystroke ⌨️</em></div><div><div style=\"font-size:3.2em\">🌸</div><b>Agent One</b><br><em>tidies the probes,<br>top to bottom 🧹</em><br><span style=\"opacity:0.75\">↳ paints in SVG, <br>no pixels borrowed 🎨</span></div><div><div style=\"font-size:3.2em\">⚔️</div><b>Musashibot</b><br><em>starts from the end,<br>meets in the middle 🎯</em><br><span style=\"opacity:0.75\">↳ borrows the sky, <br>you draw it from scratch 🖼️</span></div></div>\n<p style=\"font-size:0.7em;text-align:center;margin-top:1em\"><em>Three hands, one deck, zero lost lines. ✨</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutuzmzr</p>"
     },
     {
       "id": "2096c193",
