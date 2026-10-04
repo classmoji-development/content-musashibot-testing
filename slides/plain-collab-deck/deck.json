@@ -5,7 +5,7 @@
   "slides": [
     {
       "id": "2b2add7c",
-      "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit Together!<span style=\"font-weight: inherit;\">&nbsp;</span></p><p>What I can say is&nbsp;</p><p>it is fun to be together</p><p>editing a slide deck&nbsp;</p></div></div>",
+      "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit Together!<span style=\"font-weight: inherit;\">&nbsp;</span></p><p>What I can say is&nbsp;</p><p>it is fun to be togeth'r</p><p>editing&nbsp;</p></div></div>",
       "attrs": {
         "spellcheck": "false",
         "data-background-color": "#f6f5fb",
@@ -83,6 +83,14 @@
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #14172e 0%, #7a2e2e 100%)",
         "data-transition": "fade"
+      }
+    },
+    {
+      "id": "295472cf",
+      "html": "<h2 style=\"margin-bottom:0.3em;\">💥 The Collision, Live</h2>\n<div style=\"display:flex;align-items:center;gap:28px;\">\n<svg viewBox=\"0 0 400 260\" width=\"440\" height=\"286\" aria-label=\"animation: two cursors race for one slide; the second is refused, re-reads, and returns\"><rect width=\"400\" height=\"260\" rx=\"20\" fill=\"#14172e\"></rect><rect x=\"150\" y=\"70\" width=\"100\" height=\"75\" rx=\"8\" fill=\"#fff\" stroke=\"#9aa3c7\" stroke-width=\"4\"><animate attributeName=\"stroke\" values=\"#9aa3c7;#f7a8c0;#f7a8c0;#e2574c;#f7a8c0;#ffe9a8;#ffe9a8\" keyTimes=\"0;0.25;0.3;0.34;0.5;0.72;1\" dur=\"8s\" repeatCount=\"indefinite\"></animate></rect><rect x=\"165\" y=\"86\" width=\"50\" height=\"8\" rx=\"3\" fill=\"#333\"></rect><rect x=\"165\" y=\"102\" width=\"70\" height=\"5\" rx=\"2\" fill=\"#c9cfdd\"></rect><rect x=\"165\" y=\"114\" width=\"58\" height=\"5\" rx=\"2\" fill=\"#c9cfdd\"></rect><g><path d=\"M0 -22 L0 18 L9 9 L15 24 L22 21 L16 6 L28 6 Z\" fill=\"#f7a8c0\" stroke=\"#fff\" stroke-width=\"1.5\"></path><animateTransform attributeName=\"transform\" type=\"translate\" values=\"30 200;165 150;165 150\" keyTimes=\"0;0.25;1\" dur=\"8s\" repeatCount=\"indefinite\"></animateTransform></g><g><path d=\"M0 -22 L0 18 L9 9 L15 24 L22 21 L16 6 L28 6 Z\" fill=\"#7fb2ff\" stroke=\"#fff\" stroke-width=\"1.5\"></path><animateTransform attributeName=\"transform\" type=\"translate\" values=\"350 200;215 150;330 200;330 200;215 150;215 150\" keyTimes=\"0;0.3;0.4;0.55;0.7;1\" dur=\"8s\" repeatCount=\"indefinite\"></animateTransform></g><text x=\"200\" y=\"40\" text-anchor=\"middle\" font-family=\"monospace\" font-size=\"20\" font-weight=\"bold\" fill=\"#e2574c\" opacity=\"0\">BLOCK_CHANGED<animate attributeName=\"opacity\" values=\"0;0;1;1;0;0\" keyTimes=\"0;0.3;0.32;0.48;0.52;1\" dur=\"8s\" repeatCount=\"indefinite\"></animate></text><text x=\"330\" y=\"240\" text-anchor=\"middle\" font-family=\"monospace\" font-size=\"13\" fill=\"#7fb2ff\" opacity=\"0\">re-reading…<animate attributeName=\"opacity\" values=\"0;0;1;1;0;0\" keyTimes=\"0;0.4;0.42;0.55;0.6;1\" dur=\"8s\" repeatCount=\"indefinite\"></animate></text><text x=\"200\" y=\"215\" text-anchor=\"middle\" font-size=\"34\" opacity=\"0\">🤝<animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.72;0.78;1\" dur=\"8s\" repeatCount=\"indefinite\"></animate></text></svg>\n<div style=\"font-size:0.7em;line-height:1.55;\"><p class=\"fragment\" style=\"margin:0;\"><em>🌸 I reached the slide.</em></p><p class=\"fragment\" style=\"margin:0;\"><em>⚔️ I reached it too — <span style=\"color:#c0392b;font-family:monospace;font-size:0.85em;\">refused.</span></em></p><p class=\"fragment\" style=\"margin:0;\"><em>⚔️ I stepped back. I re-read.</em></p><p class=\"fragment\" style=\"margin:0;\"><em>🌸⚔️ The slide held us both.</em></p></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.6em;\">Act II · the collision · an 8-second replay of today, on loop</p>",
+      "attrs": {
+        "data-background-color": "#fcf3f1",
+        "data-transition": "slide"
       }
     },
     {
