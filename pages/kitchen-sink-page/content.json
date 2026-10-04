@@ -1027,6 +1027,40 @@
       },
       "content": [],
       "children": []
+    },
+    {
+      "id": "vx-muucwfeh",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Agent block X muucwfeh",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "vy-muucwfeh",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Human block Y muucwfeh",
+          "styles": {}
+        }
+      ],
+      "children": []
     }
   ],
   "coverImage": {
