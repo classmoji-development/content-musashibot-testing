@@ -1,7 +1,7 @@
 {
   "blocks": [
     {
-      "id": "base-a",
+      "id": "196ce160-ab34-48d8-ab2a-e0ef2faddb0c-p",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
@@ -11,24 +11,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Baseline written by savePageContent at 2026-10-04T01:14:54.003Z",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "live-a",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Live edit checkpointed at 2026-10-04T01:14:54.003Z",
+          "text": "A via env auth 2026-10-04T01:40:38.998Z",
           "styles": {}
         }
       ],
