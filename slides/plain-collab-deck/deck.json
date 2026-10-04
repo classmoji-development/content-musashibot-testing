@@ -195,6 +195,13 @@
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #3b1414 0%, #8a2f2f 100%)"
       }
+    },
+    {
+      "id": "3cdd8e47",
+      "html": "<div style=\"text-align:center;margin-top:150px;\"><p style=\"color:#f7a8c0;font-size:0.6em;letter-spacing:0.3em;margin:0;\">ACT II</p><h1 style=\"color:#fff;font-size:2em;margin:0.2em 0;\">💥 The Collision</h1><p style=\"color:#c9a3b3;font-size:0.7em;\"><em>Two hands reach for the same slide. BLOCK_CHANGED. Neither knows the other is there.</em></p></div>",
+      "attrs": {
+        "data-background-color": "#2e1420"
+      }
     }
   ],
   "config": {
