@@ -527,7 +527,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Probe A (agent block)",
+          "text": "Probe A (agent block) — updated with the insert's new_sha",
           "styles": {}
         }
       ],
@@ -544,7 +544,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Probe B (typing here):",
+          "text": "Probe B (typing here): one two three",
           "styles": {}
         }
       ],
