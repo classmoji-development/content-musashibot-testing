@@ -71,7 +71,7 @@
     },
     {
       "id": "a83ea45a",
-      "html": "<h2>Sandpack</h2><div class=\"sl-block\" data-block-type=\"sandpack\" style=\"width: 900px; height: 460px; left: 30px; top: 120px;\"><div class=\"sl-block-content\"><div class=\"sandpack-embed\" data-template=\"react\" data-visible-files=\"[&quot;/App.js&quot;,&quot;/styles.css&quot;]\" data-show-line-numbers=\"true\" data-theme=\"auto\"><script type=\"application/json\" data-sandpack-files=\"\">{\"/App.js\":{\"code\":\"import { capitalize } from 'lodash';\\n\\nexport default function App() {\\n  return <h1>{capitalize('hello from sandpack')}</h1>;\\n}\\n\",\"active\":true},\"/styles.css\":{\"code\":\"body { font-family: sans-serif; }\\n\"},\"/package.json\":{\"code\":\"{\\\"dependencies\\\":{\\\"lodash\\\":\\\"4.17.21\\\"}}\",\"hidden\":true}}</script></div></div></div>"
+      "html": "<h2>Sandpack</h2><div class=\"sl-block\" data-block-type=\"sandpack\" style=\"width: 900px; height: 460px; left: 30px; top: 120px;\"><div class=\"sl-block-content\"><div class=\"sandpack-embed\" data-template=\"react\" data-visible-files=\"[&quot;/App.js&quot;,&quot;/styles.css&quot;]\" data-show-line-numbers=\"true\" data-theme=\"auto\" style=\"\"><script type=\"application/json\" data-sandpack-files=\"\">{\"/App.js\":{\"code\":\"import { capitalize } from 'lodash';\\n\\nexport default function App() {\\n  return <h1>{capitalize('hello from sandpack')}</h1>;\\n}\\n\",\"active\":true},\"/styles.css\":{\"code\":\"body { font-family: sans-serif; }\\n\"},\"/package.json\":{\"code\":\"{\\\"dependencies\\\":{\\\"lodash\\\":\\\"4.17.21\\\"}}\",\"hidden\":true}}</script></div></div></div>"
     },
     {
       "id": "ee21b780",
