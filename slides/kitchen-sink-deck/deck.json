@@ -17,12 +17,12 @@
     },
     {
       "id": "0d200f83",
-      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one.</p>",
+      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]</p>",
       "notes": "Notes for slide A."
     },
     {
       "id": "ef36cb65",
-      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here.</p>"
+      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl]</p>"
     },
     {
       "id": "690e650b",
