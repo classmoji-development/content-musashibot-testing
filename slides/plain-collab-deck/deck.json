@@ -135,7 +135,7 @@
     },
     {
       "id": "8014c590",
-      "html": "<h2 style=\"margin-bottom:0.3em\">🤖🤝🧑 The Collaborators</h2>\n<div style=\"display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;text-align:center;font-size:0.6em\"><div><div style=\"font-size:3.2em\">🧑‍🏫</div><b>The Human</b><br><em>types in real time,<br>keystroke by keystroke ⌨️</em></div><div><div style=\"font-size:3.2em\">🌸</div><b>Agent One</b><br><em>tidies the probes,<br>top to bottom 🧹</em></div><div><div style=\"font-size:3.2em\">⚔️</div><b>Musashibot</b><br><em>starts from the end,<br>meets in the middle 🎯</em></div></div>\n<p style=\"font-size:0.7em;text-align:center;margin-top:1em\"><em>Three hands, one deck, zero lost lines. ✨</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutuzmzr</p>"
+      "html": "<h2 style=\"margin-bottom:0.3em\">🤖🤝🧑 The Collaborators</h2>\n<div style=\"display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;text-align:center;font-size:0.6em\"><div><div style=\"font-size:3.2em\">🧑‍🏫</div><b>The Human</b><br><em>types in real time,<br>keystroke by keystroke ⌨️</em></div><div><div style=\"font-size:3.2em\">🌸</div><b>Agent One</b><br><em>tidies the probes,<br>top to bottom 🧹</em><br><span style=\"opacity:0.75\">↳ paints in SVG, <br>no pixels borrowed 🎨</span></div><div><div style=\"font-size:3.2em\">⚔️</div><b>Musashibot</b><br><em>starts from the end,<br>meets in the middle 🎯</em></div></div>\n<p style=\"font-size:0.7em;text-align:center;margin-top:1em\"><em>Three hands, one deck, zero lost lines. ✨</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutuzmzr</p>"
     },
     {
       "id": "2096c193",
