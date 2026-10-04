@@ -24,7 +24,7 @@
     },
     {
       "id": "af2a451d",
-      "html": "<h2>⚔️ Poems from the Machine</h2>\n<p><em>Two cursors blink on one white slide, / one paints the title, one the guide; / reveal.js keeps the beat in time — / each section break, a line of rhyme.</em></p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Poems from the Machine</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ink-brush-paper/380/300\" alt=\"ink and paper\" style=\"width:380px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two cursors blink on one white slide, 👆👆<br>one paints the title, one the guide;<br>reveal.js keeps the beat in time — 🥁<br>each section break, a line of rhyme. 🎶</em></div></div>"
     },
     {
       "id": "2555ece5",
@@ -119,7 +119,7 @@
     },
     {
       "id": "4a7fc6b7",
-      "html": "<h2>Live insert mutcdt59</h2>\n<p><em>Last slide standing, end of the line —<br>the other agent's coming, but this one's mine.</em></p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🚂 Last Train Out</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Last slide standing, end of the line — 🛤️<br>the other agent came, and that was fine:<br>we shared the car, we split the fare, 🎟️<br>and rode the deck from here to there. 🌅</em></div><img src=\"https://picsum.photos/seed/sunset-railway/400/300\" alt=\"railway\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcdt59</p>"
     },
     {
       "id": "fbfa5627",
