@@ -41,7 +41,18 @@ console.log(a);</code></pre></section>
 <section data-cm-id="8e3a3dbf" data-caption="He said &quot;hi&quot; &amp; left"><h2>Fragments</h2><ul><li class="fragment">First</li><li class="fragment">Second</li><li class="fragment highlight-red">Third</li></ul></section>
 <section data-cm-id="77dfba6c"><h2>Video</h2><video controls="" width="640" src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"></video></section>
 <section data-cm-id="1563699e"><h2>Questions?</h2></section>
-<section data-cm-id="d0d87cdd"><h2>Blocks muug36td</h2></section>
+<section data-cm-id="d0d87cdd"><h2>Blocks muug36td</h2><div class="sl-block" data-block-type="html" data-cm-block-id="cd81ee9c" style="left: 60px; top: 160px; width: 400px; height: 260px;"><div class="sl-block-content"><iframe sandbox="allow-scripts allow-pointer-lock allow-modals allow-popups" allow="fullscreen" style="width: 100%; height: 100%; border: 0px;" srcdoc="&lt;!DOCTYPE html&gt;&lt;script data-cm-storage-shim&gt;(function(){function m(){var d=new Map();return{get length(){return d.size},key:function(i){var k=Array.from(d.keys());return i&gt;=0&amp;&amp;i&lt;k.length?k[i]:null},getItem:function(k){k=String(k);return d.has(k)?d.get(k):null},setItem:function(k,v){d.set(String(k),String(v))},removeItem:function(k){d.delete(String(k))},clear:function(){d.clear()}}}['localStorage','sessionStorage'].forEach(function(n){try{if(window[n])return}catch(e){}try{Object.defineProperty(window,n,{value:m(),configurable:true,enumerable:true})}catch(e){}})})();&lt;/script&gt;&lt;html&gt;&lt;body&gt;&lt;canvas id=&quot;c&quot; width=&quot;200&quot; height=&quot;120&quot;&gt;&lt;/canvas&gt;&lt;script&gt;
+var r = { run: 'muug36td' };
+function t(name, fn) { try { r[name] = 'ok:' + String(fn()); } catch (e) { r[name] = 'blocked:' + e.name; } }
+t('parentDocument', function () { return !!parent.document; });
+t('topLocation', function () { return top.location.href; });
+t('cookie', function () { return document.cookie; });
+t('storage', function () { localStorage.setItem('k', 'v'); return localStorage.getItem('k'); });
+var ctx = document.getElementById('c').getContext('2d');
+var x = 0;
+(function draw() { ctx.fillStyle = '#0b7'; ctx.clearRect(0, 0, 200, 120); ctx.fillRect(x % 180, 40, 20, 20); x += 2; requestAnimationFrame(draw); })();
+parent.postMessage({ cmBlockProbe: r }, '*');
+&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe></div></div><div class="sl-block" data-block-type="svg" data-cm-block-id="027703c2" style="left: 520px; top: 160px; width: 260px; height: 260px;"><div class="sl-block-content"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="xMidYMid meet"><circle cx="50" cy="50" r="40" fill="currentColor"></circle></svg></div></div></section>
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
