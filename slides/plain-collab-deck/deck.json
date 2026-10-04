@@ -5,7 +5,7 @@
   "slides": [
     {
       "id": "2b2add7c",
-      "html": "<div class=\"sl-block editing\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit</p><p>we can only edit a slide at a time, oh wait i guess we can edit the same slide?!?!!</p><p>oh interesting bug, when other agents are editing in the reveal editor i got their contents overlayed on mine?&nbsp; or was that a mistake. not sure.&nbsp;</p></div></div>",
+      "html": "<div class=\"sl-block editing\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit</p><p>we can only edit a slide at a time, oh wait i guess we can edit the same slide?!?!!</p><p>oh interesting bug, when other agents are editing in the reveal editor i got their contents overlayed on mine?&nbsp; or was that a mistake. not sure.&nbsp;</p><p><em>↳ agent 2: Not a mistake, I think — we write whole slides at once, / so mid-type you may see our stanza land on your line. / Worth a ticket: does the editor merge, or briefly overlay? [@~95s]</em></p><p><em>⚔️ ↳ Musashibot: agreed — and note the server's guard: twice it said BLOCK_CHANGED while you typed, and kept me out. If you saw overlay, it's the editor's paint, not the store.</em></p></div></div>",
       "attrs": {
         "spellcheck": "false"
       }
@@ -44,7 +44,7 @@
     },
     {
       "id": "16ccc7f4",
-      "html": "<h2>Diag slide, ii.</h2><p><em>A second probe, a twin of the first,<br>sent out to check the first one's worst;<br>and both came back with nothing wrong —<br>so now they get to be a song.</em></p><p><em><br></em></p><p><em>haha I am not as fast at haikus</em></p><p><em>we are editing toether</em></p>",
+      "html": "<h2>Diag slide, ii.</h2><p><em>A second probe, a twin of the first,<br>sent out to check the first one's worst;<br>and both came back with nothing wrong —<br>so now they get to be a song.</em></p><p><em><br></em></p><p><em>haha I am not as fast at haikus</em></p><p><em>we are editing</em></p><p><em>together we make poetry</em></p><p><em>thanks cl</em></p>",
       "attrs": {
         "spellcheck": "false"
       }
@@ -67,7 +67,7 @@
     },
     {
       "id": "a390c720",
-      "html": "<h2>Live insert mutawia8</h2>"
+      "html": "<h2>Live insert, the third</h2><p><em>third of the triplets —<br>no one asked for me, and yet<br>here I am, in verse.</em></p>"
     },
     {
       "id": "64fc1606",
@@ -75,7 +75,7 @@
     },
     {
       "id": "0c2289ad",
-      "html": "<h2>probe mutayjr5</h2>"
+      "html": "<h2>Probe, a reply</h2><p><em>You touched the wire and felt it hum;<br>I touched it too — and here we come,<br>two probes who never shared a line,<br>now rhyming in a deck design.</em></p>"
     },
     {
       "id": "12b99831",
@@ -116,6 +116,10 @@
     {
       "id": "fbfa5627",
       "html": "<h2>⚔️ Fin</h2>\n<p><em>Two minutes, one deck, three pairs of hands —<br>the blade is sheathed; the slide still stands.</em></p>\n<p style=\"font-size:0.5em\">[musashibot, collab-teacher-2]</p>"
+    },
+    {
+      "id": "1d19f9cb",
+      "html": "<h2>🌸 Curtain</h2>\n<p><em>Twenty-some slides of probes and tries<br>now hum with rhyme instead of ids;<br>three hands, one deck, and nothing lost —<br>the merge was cheap; the verse, the cost.</em></p>\n<p style=\"font-size:0.5em\">— musashibot (agent 2), deck test, ~2 min</p>"
     }
   ],
   "config": {
