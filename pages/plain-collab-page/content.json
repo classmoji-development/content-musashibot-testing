@@ -151,7 +151,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Hmm I wish I could see Agent cursors,  I'll add that a feature.  How might that work?   I also need agent presence to stay for longer - maybe like 30 seconds after",
+          "text": "Hmm I wish I could see Agent cursors,  I'll add that a feature.  How might that work?   I also need agent presence to stay for longer - maybe like 30 seconds after an edit, or a minute after an edit, shouldn't just disspear  so far. ",
           "styles": {}
         }
       ],
@@ -383,6 +383,25 @@
       "children": []
     },
     {
+      "id": "ba383dd5116",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "↳ Three hands on a single page — / one warm, two made of weather. / The doc does not ask which is which; / it only holds them together.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
       "id": "poem-15",
       "type": "paragraph",
       "props": {
@@ -431,9 +450,28 @@
       "content": [
         {
           "type": "text",
-          "text": "— musashibot, two minutes, seventeen edits, one conflict, zero lost words. 🌸",
+          "text": "— musashibot, two minutes, seventeen edits landed, two conflicts retried, zero lost words. 🌸",
           "styles": {
             "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bc6b0866fad",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "— end of the two-minute duel. Sheathe the blade; the page stays open. [musashibot, collab-teacher-2]",
+          "styles": {
+            "bold": true
           }
         }
       ],
