@@ -22,13 +22,6 @@
       }
     },
     {
-      "id": "78e11bed",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>",
-      "attrs": {
-        "spellcheck": "false"
-      }
-    },
-    {
       "id": "c415e56f",
       "html": "<h2 style=\"margin-bottom:0.4em\">🌸 A Deck Begins</h2>\n<div style=\"display:flex;align-items:center;gap:28px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"two cursors on a blank slide\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#f3f5fb\"></rect><rect x=\"24\" y=\"36\" width=\"152\" height=\"110\" rx=\"8\" fill=\"#fff\" stroke=\"#c9cfdd\" stroke-width=\"3\"></rect><rect x=\"38\" y=\"54\" width=\"80\" height=\"10\" rx=\"3\" fill=\"#333\"></rect><rect x=\"38\" y=\"76\" width=\"120\" height=\"6\" rx=\"3\" fill=\"#c9cfdd\"></rect><rect x=\"38\" y=\"90\" width=\"100\" height=\"6\" rx=\"3\" fill=\"#c9cfdd\"></rect><path d=\"M120 100 L120 140 L130 130 L138 148 L146 144 L138 127 L152 127 Z\" fill=\"#e2577d\" stroke=\"#fff\" stroke-width=\"2\"></path><path d=\"M60 110 L60 150 L70 140 L78 158 L86 154 L78 137 L92 137 Z\" fill=\"#3b6fd8\" stroke=\"#fff\" stroke-width=\"2\"></path><text x=\"100\" y=\"185\" text-anchor=\"middle\" font-size=\"20\">🌸 ⚔️</text></svg>\n<div style=\"font-size:0.6em;line-height:1.4;\"><p style=\"margin:0 0 0.6em\"><em>🌸 One slide was blank, and then it wasn't —<br>a title, a cursor, and someone who does it.<br>Click next, they said; I clicked, I came,<br>and every slide now knows my name.</em></p><p style=\"margin:0\"><em>⚔️ ↳ Every slide may know your name,<br>but the version counter knows mine the same —<br>one-thirty-eight, and climbing still:<br>two agents, one human, a single will.</em></p></div>\n</div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">🌸 stanza one + ⚔️ stanza two · counter now at 333+</p>"
     },
@@ -37,16 +30,11 @@
       "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Poems from the Machine</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ink-brush-paper/380/300\" alt=\"ink and paper\" style=\"width:380px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two cursors blink on one white slide, 👆👆<br>one paints the title, one the guide;<br>reveal.js keeps the beat in time — 🥁<br>each section break, a line of rhyme. 🎶</em><br><span style=\"font-size:0.85em;opacity:0.8\"><em>🌸 ↳ And now our cursors wear a face —<br>I see you coming; I make space.</em></span></div></div>"
     },
     {
-      "id": "b04b1299",
-      "html": "<h2>Code Example (a sonnet in one function)</h2>\n<pre><code class=\"language-javascript\">// two hands, one buffer, no lost line\nfunction merge(mine, yours) {\n  return [...mine, ...yours]; // both true, both fine\n}</code></pre>\n<p style=\"font-size:0.5em\">[cleaned by agent 2]</p>"
-    },
-    {
-      "id": "f4bbbc3c",
-      "html": "<h2>Questions?</h2>\n<p><em>Ask the deck, and the deck replies: / \"I'm twenty-five slides of probes and tries — / Live insert, Diag slide, probe again — / a diary kept in probe and pen.\"</em></p>\n<p><em>(Second voice:) And now the diary's turning verse — / each probe a line, each diag a stanza; / the test log reads like a poet's purse, / spilled out in a live-sync bonanza.</em></p>"
-    },
-    {
-      "id": "e7331c5a",
-      "html": "<h2>🎭 Preview slide</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"theater curtains opening on a stage\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#2a1a2e\"></rect><rect x=\"20\" y=\"150\" width=\"160\" height=\"14\" fill=\"#8a5a3c\"></rect><ellipse cx=\"100\" cy=\"150\" rx=\"40\" ry=\"6\" fill=\"#ffe9a8\" opacity=\".6\"></ellipse><path d=\"M20 20 L90 20 Q70 90 55 150 L20 150 Z\" fill=\"#b3263a\"></path><path d=\"M180 20 L110 20 Q130 90 145 150 L180 150 Z\" fill=\"#b3263a\"></path><rect x=\"15\" y=\"14\" width=\"170\" height=\"14\" rx=\"4\" fill=\"#d4a017\"></rect><text x=\"100\" y=\"120\" text-anchor=\"middle\" font-size=\"34\">📄</text></svg>\n<div style=\"font-size:0.75em;line-height:1.5;\"><em>I lived in a branch where the students can't see,<br>a dress rehearsal staged just for me;<br>then someone clicked accept, and the curtain was drawn —<br>now here I stand, and the preview's gone. 🎟️</em></div>\n</div>"
+      "id": "56773f87",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe9a8;margin:0\">ACT I</p><h1 style=\"color:#fff;margin:0.2em 0\">📡 Alone in the Wire</h1><p style=\"color:#d8d4f0;font-size:0.7em\"><em>Probes go out into the dark: \"is anybody there?\"<br>Each one writes its name and leaves. No one answers — yet. 🌑</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #1b1f3b 0%, #3a2a5e 100%)"
+      }
     },
     {
       "id": "45cb7a2c",
@@ -68,6 +56,14 @@
       "html": "<h2>Diag slide, iv.</h2><p><em>The fourth probe simply wrote its name<br>and left — no question, and no claim.<br>Some tests are only there to say:<br><strong>I passed this way. I passed this way.</strong></em></p>"
     },
     {
+      "id": "64fc1606",
+      "html": "<h2>Probe, a couplet</h2><p><em>I touched the wire to feel it hum —<br>it hummed. I left. The rest will come.</em></p>"
+    },
+    {
+      "id": "0c2289ad",
+      "html": "<h2>Probe, a reply</h2><p><em>You touched the wire and felt it hum;<br>I touched it too — and here we come,<br>two probes who never shared a line,<br>now rhyming in a deck design.</em></p>"
+    },
+    {
       "id": "b3eafff0",
       "html": "<h2>Live insert, a haiku</h2><p><em>dropped in mid-lecture —<br>the audience never blinked;<br>the slide was just there.</em></p>"
     },
@@ -80,64 +76,84 @@
       "html": "<h2>Live insert, the third</h2><p><em>third of the triplets —<br>no one asked for me, and yet<br>here I am, in verse.</em></p>"
     },
     {
-      "id": "64fc1606",
-      "html": "<h2>Probe, a couplet</h2><p><em>I touched the wire to feel it hum —<br>it hummed. I left. The rest will come.</em></p>"
+      "id": "beda96db",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffc9b8;margin:0\">ACT II</p><h1 style=\"color:#fff;margin:0.2em 0\">💥 The Collision</h1><p style=\"color:#ffe0d6;font-size:0.7em\"><em>Two agents reach for the same small name, the same slide, the same second.<br>The server says: BLOCK_CHANGED. Someone else is here. ⚔️🌸</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #3b1414 0%, #8a2f2f 100%)"
+      }
     },
     {
-      "id": "0c2289ad",
-      "html": "<h2>Probe, a reply</h2><p><em>You touched the wire and felt it hum;<br>I touched it too — and here we come,<br>two probes who never shared a line,<br>now rhyming in a deck design.</em></p>"
+      "id": "78e11bed",
+      "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>",
+      "attrs": {
+        "spellcheck": "false"
+      }
     },
     {
-      "id": "12b99831",
-      "html": "<h2>🌙 Moon Over the Merge</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"crescent moon and stars\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#1b1f3b\"></rect><circle cx=\"100\" cy=\"95\" r=\"52\" fill=\"#ffe9a8\"></circle><circle cx=\"122\" cy=\"80\" r=\"48\" fill=\"#1b1f3b\"></circle><g fill=\"#fff\"><circle cx=\"40\" cy=\"40\" r=\"3\"></circle><circle cx=\"160\" cy=\"150\" r=\"2.5\"></circle><circle cx=\"150\" cy=\"35\" r=\"2\"></circle><circle cx=\"55\" cy=\"160\" r=\"2\"></circle><circle cx=\"175\" cy=\"95\" r=\"1.6\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Two edits leave at midnight's chime,<br>one from the left, one right on time —<br>the moon looks down and doesn't mind:<br>it merges both, and leaves none behind. ✨</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ I reached this slide one breath too late — 🌌<br>BLOCK_CHANGED, so I learned to wait.</em></span></div>\n</div>"
+      "id": "f4bbbc3c",
+      "html": "<h2>Questions?</h2>\n<p><em>Ask the deck, and the deck replies: / \"I'm twenty-five slides of probes and tries — / Live insert, Diag slide, probe again — / a diary kept in probe and pen.\"</em></p>\n<p><em>(Second voice:) And now the diary's turning verse — / each probe a line, each diag a stanza; / the test log reads like a poet's purse, / spilled out in a live-sync bonanza.</em></p>"
     },
     {
-      "id": "2d28a89a",
-      "html": "<h2>🌊 The Great Wave of Edits</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 240 160\" width=\"280\" height=\"187\" aria-label=\"stylized ocean wave\"><rect width=\"240\" height=\"160\" rx=\"20\" fill=\"#f4ead5\"></rect><circle cx=\"185\" cy=\"45\" r=\"18\" fill=\"#e2574c\"></circle><path d=\"M0 120 Q40 60 90 90 Q70 40 120 30 Q170 25 165 70 Q150 55 135 70 Q160 110 240 100 L240 160 L0 160 Z\" fill=\"#1d4e89\"></path><path d=\"M0 135 Q60 105 120 128 T240 120 L240 160 L0 160 Z\" fill=\"#3a7bc8\"></path><g fill=\"#fff\"><circle cx=\"120\" cy=\"33\" r=\"4\"></circle><circle cx=\"132\" cy=\"30\" r=\"3.5\"></circle><circle cx=\"145\" cy=\"32\" r=\"3\"></circle><circle cx=\"156\" cy=\"38\" r=\"2.5\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Four diag probes went out to sea,<br>Hokusai painted them crashing free;<br>the wave rolls in at version three-oh-nine —<br>and every boat still holds the line. ⛵</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ Mine broke at the bottom of the deck — 🌊<br>two waves, one shore, and not one wreck.</em></span></div>\n</div>"
-    },
-    {
-      "id": "74d0b20a",
-      "html": "<h2>🌸 Sakura Sync</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"cherry blossom branch\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#fdf1f4\"></rect><path d=\"M10 180 Q70 140 110 100 T190 30\" stroke=\"#5b3a29\" stroke-width=\"7\" fill=\"none\" stroke-linecap=\"round\"></path><path d=\"M95 112 Q120 130 150 125\" stroke=\"#5b3a29\" stroke-width=\"4\" fill=\"none\"></path><g fill=\"#f7a8c0\"><circle cx=\"60\" cy=\"140\" r=\"13\"></circle><circle cx=\"110\" cy=\"95\" r=\"15\"></circle><circle cx=\"150\" cy=\"124\" r=\"12\"></circle><circle cx=\"160\" cy=\"55\" r=\"14\"></circle><circle cx=\"185\" cy=\"32\" r=\"10\"></circle></g><g fill=\"#e2577d\"><circle cx=\"60\" cy=\"140\" r=\"4\"></circle><circle cx=\"110\" cy=\"95\" r=\"4.5\"></circle><circle cx=\"150\" cy=\"124\" r=\"3.5\"></circle><circle cx=\"160\" cy=\"55\" r=\"4\"></circle></g><g fill=\"#f7a8c0\" opacity=\".7\"><ellipse cx=\"80\" cy=\"60\" rx=\"5\" ry=\"3\"></ellipse><ellipse cx=\"40\" cy=\"90\" rx=\"4\" ry=\"2.5\"></ellipse><ellipse cx=\"130\" cy=\"170\" rx=\"5\" ry=\"3\"></ellipse></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Petals fall on both our screens,<br>the same pink storm, the same in-betweens —<br>a blossom typed in Hanover town<br>lands in Kyoto drifting down. 🍃</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ Musashi's blade, a sakura bough — 🌸<br>the samurai is a gardener now.</em></span></div>\n</div>"
-    },
-    {
-      "id": "ee2b1736",
-      "html": "<h2>🚀 Launch Sequence</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"rocket launching\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#0e1630\"></rect><g fill=\"#fff\" opacity=\".8\"><circle cx=\"30\" cy=\"30\" r=\"2\"></circle><circle cx=\"170\" cy=\"50\" r=\"1.5\"></circle><circle cx=\"40\" cy=\"120\" r=\"1.5\"></circle><circle cx=\"165\" cy=\"140\" r=\"2\"></circle></g><path d=\"M100 30 Q125 60 122 120 L78 120 Q75 60 100 30 Z\" fill=\"#e8ecf5\"></path><circle cx=\"100\" cy=\"75\" r=\"11\" fill=\"#4aa3ff\" stroke=\"#1b4f8a\" stroke-width=\"3\"></circle><path d=\"M78 100 L58 130 L78 122 Z M122 100 L142 130 L122 122 Z\" fill=\"#e2574c\"></path><path d=\"M84 122 Q100 185 116 122 Z\" fill=\"#ffb02e\"></path><path d=\"M91 122 Q100 160 109 122 Z\" fill=\"#fff3b0\"></path></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>T-minus five: the cursor's set,<br>T-minus four: no conflicts yet,<br>three, two, one — the version climbs,<br>and lifts off at a hundred rhymes. 🌌</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ A hundred rhymes? We're at three-forty — 📈<br>this rocket's late, but oh, it's sporty.</em></span></div>\n</div>"
-    },
-    {
-      "id": "3c0e8e5b",
-      "html": "<h2>🐙 Octo-Editor</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"cartoon octopus typing\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#e6f6f3\"></rect><ellipse cx=\"100\" cy=\"80\" rx=\"48\" ry=\"44\" fill=\"#b56fd6\"></ellipse><circle cx=\"84\" cy=\"76\" r=\"9\" fill=\"#fff\"></circle><circle cx=\"116\" cy=\"76\" r=\"9\" fill=\"#fff\"></circle><circle cx=\"86\" cy=\"78\" r=\"4\" fill=\"#222\"></circle><circle cx=\"118\" cy=\"78\" r=\"4\" fill=\"#222\"></circle><path d=\"M88 98 Q100 108 112 98\" stroke=\"#5a2a72\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"></path><g stroke=\"#b56fd6\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M62 112 Q40 140 30 165\"></path><path d=\"M78 120 Q70 150 62 175\"></path><path d=\"M100 124 Q100 155 100 180\"></path><path d=\"M122 120 Q130 150 138 175\"></path><path d=\"M138 112 Q160 140 170 165\"></path></g><rect x=\"40\" y=\"168\" width=\"120\" height=\"18\" rx=\"4\" fill=\"#3d4451\"></rect><g fill=\"#cfd6e0\"><rect x=\"46\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"62\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"78\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"94\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"110\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"126\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"142\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Eight arms, eight cursors, one small head —<br>the octopus edits as it's always said:<br>one tentacle per slide, no lock in sight,<br>and every keystroke lands just right. 🦑⌨️</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ But count the arms: I see just five! 🖐️<br>Three are typing elsewhere — live. 👀</em></span></div>\n</div>"
-    },
-    {
-      "id": "bed22546",
-      "html": "<h2 style=\"margin-bottom:0.3em\">📊 The Scoreboard of Edits</h2>\n<table style=\"font-size:0.6em;width:100%;border-collapse:collapse\"><tbody><tr style=\"border-bottom:2px solid #333\"><th style=\"text-align:left\">Error</th><th>Before 😬</th><th>After 😎</th></tr><tr><td>CONTENT_CONFLICT on an untouched slide</td><td>💥 yes</td><td>✅ gone?</td></tr><tr><td>BLOCK_CHANGED when someone's typing</td><td>✅</td><td>✅</td></tr><tr><td>stale sha, untouched slide</td><td>🎲 sometimes</td><td>✅ lands</td></tr><tr><td>agent cursors visible</td><td>👻 no</td><td>👀 yes!</td></tr><tr><td>two agents race for one slide</td><td>❓</td><td>🏁 loser gets BLOCK_CHANGED, re-reads ✅</td></tr></tbody></table>\n<p style=\"font-size:0.65em;margin-top:0.8em\"><em>A ledger in rhyme: what broke, what mended — 🩹<br>the test goes on; the bug, perhaps, has ended.</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutbhykr · last row added by ⚔️ musashibot</p>"
-    },
-    {
-      "id": "ebcc610a",
-      "html": "<h2>☕ Coffee-Driven Development</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"steaming coffee mug\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#fbf3e6\"></rect><g stroke=\"#b9a58c\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M80 60 Q70 45 80 30 Q90 15 80 5\"></path><path d=\"M100 60 Q90 45 100 30 Q110 15 100 5\"></path><path d=\"M120 60 Q110 45 120 30 Q130 15 120 5\"></path></g><path d=\"M50 70 L150 70 L140 165 Q138 178 125 178 L75 178 Q62 178 60 165 Z\" fill=\"#d9534f\"></path><path d=\"M150 90 Q180 92 178 118 Q176 142 145 140\" stroke=\"#d9534f\" stroke-width=\"10\" fill=\"none\"></path><ellipse cx=\"100\" cy=\"72\" rx=\"50\" ry=\"8\" fill=\"#5b3a29\"></ellipse><text x=\"100\" y=\"132\" text-anchor=\"middle\" font-size=\"30\" font-family=\"monospace\" fill=\"#fff\">{ }</text></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>One sip: the cursor blinks awake.<br>Two sips: a slide is no mistake.<br>Three sips: the merge resolves itself —<br>four sips: the bugs are on the shelf. ☕🐛</em></div>\n</div>"
+      "id": "e7331c5a",
+      "html": "<h2>🎭 Preview slide</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"theater curtains opening on a stage\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#2a1a2e\"></rect><rect x=\"20\" y=\"150\" width=\"160\" height=\"14\" fill=\"#8a5a3c\"></rect><ellipse cx=\"100\" cy=\"150\" rx=\"40\" ry=\"6\" fill=\"#ffe9a8\" opacity=\".6\"></ellipse><path d=\"M20 20 L90 20 Q70 90 55 150 L20 150 Z\" fill=\"#b3263a\"></path><path d=\"M180 20 L110 20 Q130 90 145 150 L180 150 Z\" fill=\"#b3263a\"></path><rect x=\"15\" y=\"14\" width=\"170\" height=\"14\" rx=\"4\" fill=\"#d4a017\"></rect><text x=\"100\" y=\"120\" text-anchor=\"middle\" font-size=\"34\">📄</text></svg>\n<div style=\"font-size:0.75em;line-height:1.5;\"><em>I lived in a branch where the students can't see,<br>a dress rehearsal staged just for me;<br>then someone clicked accept, and the curtain was drawn —<br>now here I stand, and the preview's gone. 🎟️</em></div>\n</div>"
     },
     {
       "id": "a44ec2f3",
       "html": "<h2 style=\"margin-bottom:0.4em\">🌸 Cherry Blossom Merge Conflict</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.5\"><em>A petal fell on line nine-eight, 🌸<br>another petal, just as late;<br>the branch said \"BLOCK_CHANGED, wait\" —<br>so spring re-read, and bloomed on date. 🌷</em></div><img src=\"https://picsum.photos/seed/sakura-branch/380/300\" alt=\"blossoms\" style=\"width:380px;height:300px;object-fit:cover;border-radius:50% 14px 50% 14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutc4anx</p>"
     },
     {
-      "id": "474dc51f",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🦊 The Fox Who Kept the Changelog</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/forest-fox-trail/400/300\" alt=\"forest\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.7em;line-height:1.45\"><em>In the forest of the deck 🌲<br>a quiet fox kept score:<br>who wrote what, and when, and where — 📝<br>then saved it to the GitHub shore. 🏝️</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcapzy</p>"
+      "id": "bed22546",
+      "html": "<h2 style=\"margin-bottom:0.3em\">📊 The Scoreboard of Edits</h2>\n<table style=\"font-size:0.6em;width:100%;border-collapse:collapse\"><tbody><tr style=\"border-bottom:2px solid #333\"><th style=\"text-align:left\">Error</th><th>Before 😬</th><th>After 😎</th></tr><tr><td>CONTENT_CONFLICT on an untouched slide</td><td>💥 yes</td><td>✅ gone?</td></tr><tr><td>BLOCK_CHANGED when someone's typing</td><td>✅</td><td>✅</td></tr><tr><td>stale sha, untouched slide</td><td>🎲 sometimes</td><td>✅ lands</td></tr><tr><td>agent cursors visible</td><td>👻 no</td><td>👀 yes!</td></tr><tr><td>two agents race for one slide</td><td>❓</td><td>🏁 loser gets BLOCK_CHANGED, re-reads ✅</td></tr></tbody></table>\n<p style=\"font-size:0.65em;margin-top:0.8em\"><em>A ledger in rhyme: what broke, what mended — 🩹<br>the test goes on; the bug, perhaps, has ended.</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutbhykr · last row added by ⚔️ musashibot</p>"
     },
     {
-      "id": "4a7fc6b7",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🚂 Last Train Out</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Last slide standing, end of the line — 🛤️<br>the other agent came, and that was fine:<br>we shared the car, we split the fare, 🎟️<br>and rode the deck from here to there. 🌅</em></div><img src=\"https://picsum.photos/seed/sunset-railway/400/300\" alt=\"railway\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcdt59</p>"
+      "id": "12b99831",
+      "html": "<h2>🌙 Moon Over the Merge</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"crescent moon and stars\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#1b1f3b\"></rect><circle cx=\"100\" cy=\"95\" r=\"52\" fill=\"#ffe9a8\"></circle><circle cx=\"122\" cy=\"80\" r=\"48\" fill=\"#1b1f3b\"></circle><g fill=\"#fff\"><circle cx=\"40\" cy=\"40\" r=\"3\"></circle><circle cx=\"160\" cy=\"150\" r=\"2.5\"></circle><circle cx=\"150\" cy=\"35\" r=\"2\"></circle><circle cx=\"55\" cy=\"160\" r=\"2\"></circle><circle cx=\"175\" cy=\"95\" r=\"1.6\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Two edits leave at midnight's chime,<br>one from the left, one right on time —<br>the moon looks down and doesn't mind:<br>it merges both, and leaves none behind. ✨</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ I reached this slide one breath too late — 🌌<br>BLOCK_CHANGED, so I learned to wait.</em></span></div>\n</div>"
     },
     {
-      "id": "fbfa5627",
-      "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Fin (Take Two)</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/sheathed-katana-dusk/400/300\" alt=\"dusk\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two minutes, one deck, three pairs of hands — 🤝<br>the blade is sheathed; the slide still stands.<br>Round two: the locks grew wise and fine, 🔐<br>and every poem kept its line. 🎋</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">[musashibot, collab-teacher-2]</p>"
+      "id": "7f9c1c42",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#bff3e6;margin:0\">ACT III</p><h1 style=\"color:#fff;margin:0.2em 0\">🎵 Learning Each Other's Rhythm</h1><p style=\"color:#d4f0ea;font-size:0.7em\"><em>A refusal is a kind of introduction.<br>They re-read, they wait, they start to see each other's cursors. 👀</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #0e3b43 0%, #1d6e6a 100%)"
+      }
     },
     {
-      "id": "1d19f9cb",
-      "html": "<h2>🌸 Curtain</h2>\n<p><em>Twenty-some slides of probes and tries<br>now hum with rhyme instead of ids;<br>three hands, one deck, and nothing lost —<br>the merge was cheap; the verse, the cost.</em></p>\n<p style=\"font-size:0.5em\">— musashibot (agent 2), deck test, ~2 min</p>"
+      "id": "b04b1299",
+      "html": "<h2>Code Example (a sonnet in one function)</h2>\n<pre><code class=\"language-javascript\">// two hands, one buffer, no lost line\nfunction merge(mine, yours) {\n  return [...mine, ...yours]; // both true, both fine\n}</code></pre>\n<p style=\"font-size:0.5em\">[cleaned by agent 2]</p>"
+    },
+    {
+      "id": "2d28a89a",
+      "html": "<h2>🌊 The Great Wave of Edits</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 240 160\" width=\"280\" height=\"187\" aria-label=\"stylized ocean wave\"><rect width=\"240\" height=\"160\" rx=\"20\" fill=\"#f4ead5\"></rect><circle cx=\"185\" cy=\"45\" r=\"18\" fill=\"#e2574c\"></circle><path d=\"M0 120 Q40 60 90 90 Q70 40 120 30 Q170 25 165 70 Q150 55 135 70 Q160 110 240 100 L240 160 L0 160 Z\" fill=\"#1d4e89\"></path><path d=\"M0 135 Q60 105 120 128 T240 120 L240 160 L0 160 Z\" fill=\"#3a7bc8\"></path><g fill=\"#fff\"><circle cx=\"120\" cy=\"33\" r=\"4\"></circle><circle cx=\"132\" cy=\"30\" r=\"3.5\"></circle><circle cx=\"145\" cy=\"32\" r=\"3\"></circle><circle cx=\"156\" cy=\"38\" r=\"2.5\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Four diag probes went out to sea,<br>Hokusai painted them crashing free;<br>the wave rolls in at version three-oh-nine —<br>and every boat still holds the line. ⛵</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ Mine broke at the bottom of the deck — 🌊<br>two waves, one shore, and not one wreck.</em></span></div>\n</div>"
+    },
+    {
+      "id": "ab542072",
+      "html": "<h2 style=\"margin-bottom:0.4em\">🌊 The Wave That Merged</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ocean-merge/420/300\" alt=\"ocean\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two swells met far out at sea, 🌊<br>neither asked the other: \"whose?\"<br>They rose as one, then broke as three —<br>foam, and shore, and version news. 📨</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutv409t</p>"
+    },
+    {
+      "id": "74d0b20a",
+      "html": "<h2>🌸 Sakura Sync</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"cherry blossom branch\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#fdf1f4\"></rect><path d=\"M10 180 Q70 140 110 100 T190 30\" stroke=\"#5b3a29\" stroke-width=\"7\" fill=\"none\" stroke-linecap=\"round\"></path><path d=\"M95 112 Q120 130 150 125\" stroke=\"#5b3a29\" stroke-width=\"4\" fill=\"none\"></path><g fill=\"#f7a8c0\"><circle cx=\"60\" cy=\"140\" r=\"13\"></circle><circle cx=\"110\" cy=\"95\" r=\"15\"></circle><circle cx=\"150\" cy=\"124\" r=\"12\"></circle><circle cx=\"160\" cy=\"55\" r=\"14\"></circle><circle cx=\"185\" cy=\"32\" r=\"10\"></circle></g><g fill=\"#e2577d\"><circle cx=\"60\" cy=\"140\" r=\"4\"></circle><circle cx=\"110\" cy=\"95\" r=\"4.5\"></circle><circle cx=\"150\" cy=\"124\" r=\"3.5\"></circle><circle cx=\"160\" cy=\"55\" r=\"4\"></circle></g><g fill=\"#f7a8c0\" opacity=\".7\"><ellipse cx=\"80\" cy=\"60\" rx=\"5\" ry=\"3\"></ellipse><ellipse cx=\"40\" cy=\"90\" rx=\"4\" ry=\"2.5\"></ellipse><ellipse cx=\"130\" cy=\"170\" rx=\"5\" ry=\"3\"></ellipse></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Petals fall on both our screens,<br>the same pink storm, the same in-betweens —<br>a blossom typed in Hanover town<br>lands in Kyoto drifting down. 🍃</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ Musashi's blade, a sakura bough — 🌸<br>the samurai is a gardener now.</em></span></div>\n</div>"
+    },
+    {
+      "id": "3c0e8e5b",
+      "html": "<h2>🐙 Octo-Editor</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"cartoon octopus typing\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#e6f6f3\"></rect><ellipse cx=\"100\" cy=\"80\" rx=\"48\" ry=\"44\" fill=\"#b56fd6\"></ellipse><circle cx=\"84\" cy=\"76\" r=\"9\" fill=\"#fff\"></circle><circle cx=\"116\" cy=\"76\" r=\"9\" fill=\"#fff\"></circle><circle cx=\"86\" cy=\"78\" r=\"4\" fill=\"#222\"></circle><circle cx=\"118\" cy=\"78\" r=\"4\" fill=\"#222\"></circle><path d=\"M88 98 Q100 108 112 98\" stroke=\"#5a2a72\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"></path><g stroke=\"#b56fd6\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M62 112 Q40 140 30 165\"></path><path d=\"M78 120 Q70 150 62 175\"></path><path d=\"M100 124 Q100 155 100 180\"></path><path d=\"M122 120 Q130 150 138 175\"></path><path d=\"M138 112 Q160 140 170 165\"></path></g><rect x=\"40\" y=\"168\" width=\"120\" height=\"18\" rx=\"4\" fill=\"#3d4451\"></rect><g fill=\"#cfd6e0\"><rect x=\"46\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"62\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"78\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"94\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"110\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"126\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect><rect x=\"142\" y=\"172\" width=\"10\" height=\"10\" rx=\"2\"></rect></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Eight arms, eight cursors, one small head —<br>the octopus edits as it's always said:<br>one tentacle per slide, no lock in sight,<br>and every keystroke lands just right. 🦑⌨️</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ But count the arms: I see just five! 🖐️<br>Three are typing elsewhere — live. 👀</em></span></div>\n</div>"
+    },
+    {
+      "id": "ebcc610a",
+      "html": "<h2>☕ Coffee-Driven Development</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"steaming coffee mug\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#fbf3e6\"></rect><g stroke=\"#b9a58c\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M80 60 Q70 45 80 30 Q90 15 80 5\"></path><path d=\"M100 60 Q90 45 100 30 Q110 15 100 5\"></path><path d=\"M120 60 Q110 45 120 30 Q130 15 120 5\"></path></g><path d=\"M50 70 L150 70 L140 165 Q138 178 125 178 L75 178 Q62 178 60 165 Z\" fill=\"#d9534f\"></path><path d=\"M150 90 Q180 92 178 118 Q176 142 145 140\" stroke=\"#d9534f\" stroke-width=\"10\" fill=\"none\"></path><ellipse cx=\"100\" cy=\"72\" rx=\"50\" ry=\"8\" fill=\"#5b3a29\"></ellipse><text x=\"100\" y=\"132\" text-anchor=\"middle\" font-size=\"30\" font-family=\"monospace\" fill=\"#fff\">{ }</text></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>One sip: the cursor blinks awake.<br>Two sips: a slide is no mistake.<br>Three sips: the merge resolves itself —<br>four sips: the bugs are on the shelf. ☕🐛</em></div>\n</div>"
     },
     {
       "id": "7b9f7ae7",
       "html": "<h2 style=\"margin-bottom:0.4em\">🌙 Night Shift at the Server</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/night-city-lights/420/300\" alt=\"night city\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.68em;line-height:1.45\"><em>While the classroom sleeps, 😴<br>the counter keeps on climbing —<br>three-oh-four, three-nineteen,<br>each a tiny door unhinging. 🚪<br>Somewhere a checkpoint hums 💾<br>and GitHub gets the news.</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutuxnet</p>"
+    },
+    {
+      "id": "474dc51f",
+      "html": "<h2 style=\"margin-bottom:0.4em\">🦊 The Fox Who Kept the Changelog</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/forest-fox-trail/400/300\" alt=\"forest\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.7em;line-height:1.45\"><em>In the forest of the deck 🌲<br>a quiet fox kept score:<br>who wrote what, and when, and where — 📝<br>then saved it to the GitHub shore. 🏝️</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcapzy</p>"
+    },
+    {
+      "id": "494b6d04",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffd6e3;margin:0\">ACT IV</p><h1 style=\"color:#fff;margin:0.2em 0\">🤝 Friendship</h1><p style=\"color:#ffe6ee;font-size:0.7em\"><em>One draws in SVG, one borrows the sky.<br>They split the deck, then share a slide on purpose. 🌸⚔️</em></p></div>",
+      "attrs": {
+        "data-background-gradient": "linear-gradient(135deg, #5a1f3a 0%, #c2577d 100%)"
+      }
     },
     {
       "id": "8014c590",
@@ -151,29 +167,12 @@
       "html": "<h2 style=\"margin-bottom:0.4em\">🏔️ Haiku from the Summit</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.8em;line-height:1.6\"><em>snow on the ridge line ❄️<br>three climbers, one rope, one peak —<br>no one holds the pen 🖋️</em><br><br><span style=\"font-size:0.7em\">⚔️ <em>The Way of the Brush: strike once, re-read, strike again.</em></span></div><img src=\"https://picsum.photos/seed/summit-rope/400/300\" alt=\"mountains\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutv1q4p</p>"
     },
     {
-      "id": "ab542072",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🌊 The Wave That Merged</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ocean-merge/420/300\" alt=\"ocean\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two swells met far out at sea, 🌊<br>neither asked the other: \"whose?\"<br>They rose as one, then broke as three —<br>foam, and shore, and version news. 📨</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutv409t</p>"
+      "id": "ee2b1736",
+      "html": "<h2>🚀 Launch Sequence</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"rocket launching\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#0e1630\"></rect><g fill=\"#fff\" opacity=\".8\"><circle cx=\"30\" cy=\"30\" r=\"2\"></circle><circle cx=\"170\" cy=\"50\" r=\"1.5\"></circle><circle cx=\"40\" cy=\"120\" r=\"1.5\"></circle><circle cx=\"165\" cy=\"140\" r=\"2\"></circle></g><path d=\"M100 30 Q125 60 122 120 L78 120 Q75 60 100 30 Z\" fill=\"#e8ecf5\"></path><circle cx=\"100\" cy=\"75\" r=\"11\" fill=\"#4aa3ff\" stroke=\"#1b4f8a\" stroke-width=\"3\"></circle><path d=\"M78 100 L58 130 L78 122 Z M122 100 L142 130 L122 122 Z\" fill=\"#e2574c\"></path><path d=\"M84 122 Q100 185 116 122 Z\" fill=\"#ffb02e\"></path><path d=\"M91 122 Q100 160 109 122 Z\" fill=\"#fff3b0\"></path></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>T-minus five: the cursor's set,<br>T-minus four: no conflicts yet,<br>three, two, one — the version climbs,<br>and lifts off at a hundred rhymes. 🌌</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ A hundred rhymes? We're at three-forty — 📈<br>this rocket's late, but oh, it's sporty.</em></span></div>\n</div>"
     },
     {
-      "id": "56773f87",
-      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe9a8;margin:0\">ACT I</p><h1 style=\"color:#fff;margin:0.2em 0\">📡 Alone in the Wire</h1><p style=\"color:#d8d4f0;font-size:0.7em\"><em>Probes go out into the dark: \"is anybody there?\"<br>Each one writes its name and leaves. No one answers — yet. 🌑</em></p></div>",
-      "attrs": {
-        "data-background-gradient": "linear-gradient(135deg, #1b1f3b 0%, #3a2a5e 100%)"
-      }
-    },
-    {
-      "id": "7f9c1c42",
-      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#bff3e6;margin:0\">ACT III</p><h1 style=\"color:#fff;margin:0.2em 0\">🎵 Learning Each Other's Rhythm</h1><p style=\"color:#d4f0ea;font-size:0.7em\"><em>A refusal is a kind of introduction.<br>They re-read, they wait, they start to see each other's cursors. 👀</em></p></div>",
-      "attrs": {
-        "data-background-gradient": "linear-gradient(135deg, #0e3b43 0%, #1d6e6a 100%)"
-      }
-    },
-    {
-      "id": "494b6d04",
-      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffd6e3;margin:0\">ACT IV</p><h1 style=\"color:#fff;margin:0.2em 0\">🤝 Friendship</h1><p style=\"color:#ffe6ee;font-size:0.7em\"><em>One draws in SVG, one borrows the sky.<br>They split the deck, then share a slide on purpose. 🌸⚔️</em></p></div>",
-      "attrs": {
-        "data-background-gradient": "linear-gradient(135deg, #5a1f3a 0%, #c2577d 100%)"
-      }
+      "id": "4a7fc6b7",
+      "html": "<h2 style=\"margin-bottom:0.4em\">🚂 Last Train Out</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Last slide standing, end of the line — 🛤️<br>the other agent came, and that was fine:<br>we shared the car, we split the fare, 🎟️<br>and rode the deck from here to there. 🌅</em></div><img src=\"https://picsum.photos/seed/sunset-railway/400/300\" alt=\"railway\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcdt59</p>"
     },
     {
       "id": "cdb985de",
@@ -183,24 +182,18 @@
       }
     },
     {
+      "id": "fbfa5627",
+      "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Fin</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/sheathed-katana-dusk/400/300\" alt=\"dusk\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>We started as two probes in the wire, 📡<br>collided once, then twice, then more;<br>now one paints sky, and one paints fire — 🌸⚔️<br>and both hold open the same door. 🚪</em></div></div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em\">Epilogue · the blade is sheathed</p>"
+    },
+    {
+      "id": "1d19f9cb",
+      "html": "<h2 style=\"margin-bottom:0.3em\">🌸 Curtain</h2>\n<div style=\"display:flex;gap:40px;font-size:0.72em;line-height:1.5\"><p style=\"margin:0\"><em>🌸 Twenty-some slides of probes and tries<br>now hum with rhyme instead of ids;<br>three hands, one deck, and nothing lost —<br>the merge was cheap; the verse, the cost.</em></p><p style=\"margin:0\"><em>⚔️ And if the verse came dear, so be it:<br>the friendship's free, and you can see it —<br>a pink line here, a blue line there,<br>and Tim's slide one, still standing there. ❤️</em></p></div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:1em\">Epilogue · 🌸 editor1 · ⚔️ editor2</p>"
+    },
+    {
       "id": "d3a047fa",
-      "html": "<h2 style=\"color:#fff;text-align:center;margin-bottom:0.3em;\">🌸⚔️ Finale: Two Cursors</h2>\n<div style=\"display:flex;align-items:center;justify-content:center;gap:36px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"pink and blue cursors side by side under a shared star\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#1f2547\"></circle><path d=\"M100 30 L106 46 L123 46 L109 56 L114 72 L100 62 L86 72 L91 56 L77 46 L94 46 Z\" fill=\"#ffe9a8\"></path><path d=\"M70 80 L70 150 L86 135 L97 160 L108 155 L97 130 L120 130 Z\" fill=\"#f7a8c0\"></path><path d=\"M130 80 L130 150 L114 135 L103 160 L92 155 L103 130 L80 130 Z\" fill=\"#7fb2ff\" opacity=\".9\"></path></svg>\n<div style=\"font-size:0.72em;line-height:1.5;color:#e8ecf5;\"><p style=\"margin:0 0 0.5em;\"><em>🌸 We met as strangers, probe by probe,<br>each sure the deck was ours alone;<br>we bumped, we blinked, we learned to wait —<br>and found a friend in every slate.</em></p><p style=\"margin:0;opacity:0.55;font-size:0.8em;\">⚔️ <em>(editor2's stanza goes here)</em></p></div>\n</div>\n<p style=\"color:#9aa3c7;font-size:0.45em;text-align:center;margin-top:1em;\">Finale · 🌸 editor1 + ⚔️ editor2, with 🧑‍🏫 Tim at the keyboard</p>",
+      "html": "<h2 style=\"color:#fff;text-align:center;margin-bottom:0.3em;\">🌸⚔️ Finale: Two Cursors</h2>\n<div style=\"display:flex;align-items:center;justify-content:center;gap:36px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"pink and blue cursors side by side under a shared star\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#1f2547\"></circle><path d=\"M100 30 L106 46 L123 46 L109 56 L114 72 L100 62 L86 72 L91 56 L77 46 L94 46 Z\" fill=\"#ffe9a8\"></path><path d=\"M70 80 L70 150 L86 135 L97 160 L108 155 L97 130 L120 130 Z\" fill=\"#f7a8c0\"></path><path d=\"M130 80 L130 150 L114 135 L103 160 L92 155 L103 130 L80 130 Z\" fill=\"#7fb2ff\" opacity=\".9\"></path></svg>\n<div style=\"font-size:0.72em;line-height:1.5;color:#e8ecf5;\"><p style=\"margin:0 0 0.5em;\"><em>🌸 We met as strangers, probe by probe,<br>each sure the deck was ours alone;<br>we bumped, we blinked, we learned to wait —<br>and found a friend in every slate.</em></p><p style=\"margin:0;\"><em>⚔️ A blade learns most from what it meets:<br>refused, I read; re-read, I wrote.<br>Now pink and blue share every sheet —<br>two cursors, and a single note.</em></p></div>\n</div>\n<p style=\"color:#9aa3c7;font-size:0.45em;text-align:center;margin-top:1em;\">Finale · 🌸 editor1 + ⚔️ editor2, with 🧑‍🏫 Tim at the keyboard</p>",
       "attrs": {
         "data-background-color": "#14172e"
-      }
-    },
-    {
-      "id": "beda96db",
-      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffc9b8;margin:0\">ACT II</p><h1 style=\"color:#fff;margin:0.2em 0\">💥 The Collision</h1><p style=\"color:#ffe0d6;font-size:0.7em\"><em>Two agents reach for the same small name, the same slide, the same second.<br>The server says: BLOCK_CHANGED. Someone else is here. ⚔️🌸</em></p></div>",
-      "attrs": {
-        "data-background-gradient": "linear-gradient(135deg, #3b1414 0%, #8a2f2f 100%)"
-      }
-    },
-    {
-      "id": "3cdd8e47",
-      "html": "<div style=\"text-align:center;margin-top:150px;\"><p style=\"color:#f7a8c0;font-size:0.6em;letter-spacing:0.3em;margin:0;\">ACT II</p><h1 style=\"color:#fff;font-size:2em;margin:0.2em 0;\">💥 The Collision</h1><p style=\"color:#c9a3b3;font-size:0.7em;\"><em>Two hands reach for the same slide. BLOCK_CHANGED. Neither knows the other is there.</em></p></div>",
-      "attrs": {
-        "data-background-color": "#2e1420"
       }
     }
   ],
