@@ -64,7 +64,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Second paragraph, updated by the agent [upd-mut7j8z0]",
+          "text": "Second paragraph rewritten in preview [pv-upd-mut7lool]",
           "styles": {}
         }
       ],
@@ -81,7 +81,24 @@
       "content": [
         {
           "type": "text",
-          "text": "Third paragraph. human-mut7j8z0",
+          "text": "Third paragraph. human-mut7j8z0 typing-during-accept-mut7lool",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "pv-ins-mut7lool",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Preview-only new paragraph [pv-ins-mut7lool]",
           "styles": {}
         }
       ],
