@@ -8,8 +8,9 @@
       "plain-collab-page"
     ],
     "slides": [
-      "kitchen-sink-deck",
-      "plain-collab-deck"
+      "plain-collab-deck",
+      "render-check-scratch",
+      "kitchen-sink-deck"
     ]
   }
 }
