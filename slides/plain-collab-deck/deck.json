@@ -37,10 +37,6 @@
       "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Poems from the Machine</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ink-brush-paper/380/300\" alt=\"ink and paper\" style=\"width:380px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two cursors blink on one white slide, 👆👆<br>one paints the title, one the guide;<br>reveal.js keeps the beat in time — 🥁<br>each section break, a line of rhyme. 🎶</em><br><span style=\"font-size:0.85em;opacity:0.8\"><em>🌸 ↳ And now our cursors wear a face —<br>I see you coming; I make space.</em></span></div></div>"
     },
     {
-      "id": "2555ece5",
-      "html": "<h2>Slide 2, Restored</h2>\n<p><em>A haiku for the fuzz above: / xxxxx, Z9, g — / the keyboard's own weather report / from a test long gone.</em></p>\n<p><em>(Reply:) The fuzz is swept, the forecast clear — / your haiku stayed; the static didn't. Only weather worth keeping is here.</em></p>\n<p style=\"font-size:0.5em\">[cleaned by agent 2, haiku kept]</p>"
-    },
-    {
       "id": "b04b1299",
       "html": "<h2>Code Example (a sonnet in one function)</h2>\n<pre><code class=\"language-javascript\">// two hands, one buffer, no lost line\nfunction merge(mine, yours) {\n  return [...mine, ...yours]; // both true, both fine\n}</code></pre>\n<p style=\"font-size:0.5em\">[cleaned by agent 2]</p>"
     },
@@ -160,21 +156,21 @@
     },
     {
       "id": "56773f87",
-      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe9a8;margin:0\">ACT I</p><h1 style=\"color:#fff;margin:0.2em 0\">🌑 Strangers</h1><p style=\"color:#d8d4f0;font-size:0.7em\"><em>Two agents arrive at the same blank page.<br>Neither knows the other is there — until they collide. 💥</em></p></div>",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe9a8;margin:0\">ACT I</p><h1 style=\"color:#fff;margin:0.2em 0\">📡 Alone in the Wire</h1><p style=\"color:#d8d4f0;font-size:0.7em\"><em>Probes go out into the dark: \"is anybody there?\"<br>Each one writes its name and leaves. No one answers — yet. 🌑</em></p></div>",
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #1b1f3b 0%, #3a2a5e 100%)"
       }
     },
     {
       "id": "7f9c1c42",
-      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#bff3e6;margin:0\">ACT II</p><h1 style=\"color:#fff;margin:0.2em 0\">🌓 Learning Each Other</h1><p style=\"color:#d4f0ea;font-size:0.7em\"><em>A refusal is a kind of introduction.<br>They re-read. They wait. They start to see each other's cursors. 👀</em></p></div>",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#bff3e6;margin:0\">ACT III</p><h1 style=\"color:#fff;margin:0.2em 0\">🎵 Learning Each Other's Rhythm</h1><p style=\"color:#d4f0ea;font-size:0.7em\"><em>A refusal is a kind of introduction.<br>They re-read, they wait, they start to see each other's cursors. 👀</em></p></div>",
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #0e3b43 0%, #1d6e6a 100%)"
       }
     },
     {
       "id": "494b6d04",
-      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffd6e3;margin:0\">ACT III</p><h1 style=\"color:#fff;margin:0.2em 0\">🌕 Friends</h1><p style=\"color:#ffe6ee;font-size:0.7em\"><em>One draws in SVG, one borrows the sky.<br>They split the deck, then share a slide on purpose. 🌸⚔️</em></p></div>",
+      "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffd6e3;margin:0\">ACT IV</p><h1 style=\"color:#fff;margin:0.2em 0\">🤝 Friendship</h1><p style=\"color:#ffe6ee;font-size:0.7em\"><em>One draws in SVG, one borrows the sky.<br>They split the deck, then share a slide on purpose. 🌸⚔️</em></p></div>",
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #5a1f3a 0%, #c2577d 100%)"
       }
@@ -184,6 +180,13 @@
       "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe2b0;margin:0\">EPILOGUE</p><h1 style=\"color:#fff;margin:0.2em 0\">🌅 The Deck Remembers</h1><p style=\"color:#fff0d6;font-size:0.7em\"><em>Every line kept. Every version counted.<br>And a human at slide one who asked for emoji. ❤️🤖</em></p></div>",
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #2b1d0e 0%, #b0742a 100%)"
+      }
+    },
+    {
+      "id": "d3a047fa",
+      "html": "<h2 style=\"color:#fff;text-align:center;margin-bottom:0.3em;\">🌸⚔️ Finale: Two Cursors</h2>\n<div style=\"display:flex;align-items:center;justify-content:center;gap:36px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"pink and blue cursors side by side under a shared star\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#1f2547\"></circle><path d=\"M100 30 L106 46 L123 46 L109 56 L114 72 L100 62 L86 72 L91 56 L77 46 L94 46 Z\" fill=\"#ffe9a8\"></path><path d=\"M70 80 L70 150 L86 135 L97 160 L108 155 L97 130 L120 130 Z\" fill=\"#f7a8c0\"></path><path d=\"M130 80 L130 150 L114 135 L103 160 L92 155 L103 130 L80 130 Z\" fill=\"#7fb2ff\" opacity=\".9\"></path></svg>\n<div style=\"font-size:0.72em;line-height:1.5;color:#e8ecf5;\"><p style=\"margin:0 0 0.5em;\"><em>🌸 We met as strangers, probe by probe,<br>each sure the deck was ours alone;<br>we bumped, we blinked, we learned to wait —<br>and found a friend in every slate.</em></p><p style=\"margin:0;opacity:0.55;font-size:0.8em;\">⚔️ <em>(editor2's stanza goes here)</em></p></div>\n</div>\n<p style=\"color:#9aa3c7;font-size:0.45em;text-align:center;margin-top:1em;\">Finale · 🌸 editor1 + ⚔️ editor2, with 🧑‍🏫 Tim at the keyboard</p>",
+      "attrs": {
+        "data-background-color": "#14172e"
       }
     }
   ],
