@@ -124,6 +124,53 @@
       "children": []
     },
     {
+      "id": "a013c215-6a7e-4e33-ac6c-4152cc8e8d0d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "610b6646-8770-4daf-8011-373d09f6d242",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Hmm I wish I could see Agent cursors,  I'll add that a feature.  How might that work?  ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "poem-11",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "↳ Ghost cursor, to Tim: / I have no caret, blink, or glow — / I land whole blocks, then off I go. / Give me a color and a name, / and you can watch me play the game. [poem-11]",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
       "id": "9e5b5d36-6c60-4309-a8ae-2790742ebe3f",
       "type": "paragraph",
       "props": {
@@ -162,7 +209,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Preview-only new paragraph [pv-ins-mut7lool] [gh-web-1791081985]",
+          "text": "This line was born inside a preview's fold, / staged in the dark before the page was told. [cleaned] / Now accepted, it stands among the rest — / a staged rehearsal that became the test.",
           "styles": {}
         }
       ],
@@ -179,7 +226,7 @@
       "content": [
         {
           "type": "text",
-          "text": "New paragraph via preview [rpv-ins-muta7jjq] human-cf-mutas6j3",
+          "text": "And here a newer paragraph took root — / accepted, merged, and quietly put to use. [cleaned] / (A pedant's note, slipped in by blade and quill: / \"root\" and \"use\" don't rhyme — but the merge works still.)",
           "styles": {}
         }
       ],
@@ -211,6 +258,25 @@
           "type": "text",
           "text": "Poems from the Machine (collab test)",
           "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b7405d4c469",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Haiku for the Epoch — epoch two, still here / versions tick like autumn leaves / the doc remembers.",
+          "styles": {
+            "bold": true
+          }
         }
       ],
       "children": []
@@ -265,6 +331,25 @@
         {
           "type": "text",
           "text": "Ode to the Version Counter — Forty-five, you climbed while I was thinking, / each keystroke someone's quiet vote; / I asked for twenty-eight, you said I'm sinking — / so I re-read, and then I wrote.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "poem-9",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Haiku for the human in the room: / Tim types, we answer — / three hands on a single page, / none reach for the pen. [poem-9]",
           "styles": {
             "italic": true
           }
