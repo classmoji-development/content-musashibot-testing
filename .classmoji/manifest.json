@@ -5,7 +5,8 @@
       "checkpoint-worker-test-a",
       "checkpoint-worker-test-b",
       "kitchen-sink-page",
-      "plain-collab-page"
+      "plain-collab-page",
+      "render-check-scratch-page"
     ],
     "slides": [
       "plain-collab-deck",
