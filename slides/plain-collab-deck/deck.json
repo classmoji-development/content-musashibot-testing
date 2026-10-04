@@ -107,7 +107,7 @@
     },
     {
       "id": "12b99831",
-      "html": "<h2>🌙 Moon Over the Merge</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"crescent moon and stars\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#1b1f3b\"></rect><circle cx=\"100\" cy=\"95\" r=\"52\" fill=\"#ffe9a8\"></circle><circle cx=\"122\" cy=\"80\" r=\"48\" fill=\"#1b1f3b\"></circle><g fill=\"#fff\"><circle cx=\"40\" cy=\"40\" r=\"3\"></circle><circle cx=\"160\" cy=\"150\" r=\"2.5\"></circle><circle cx=\"150\" cy=\"35\" r=\"2\"></circle><circle cx=\"55\" cy=\"160\" r=\"2\"></circle><circle cx=\"175\" cy=\"95\" r=\"1.6\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Two edits leave at midnight's chime,<br>one from the left, one right on time —<br>the moon looks down and doesn't mind:<br>it merges both, and leaves none behind. ✨</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ I reached this slide one breath too late — 🌌<br>BLOCK_CHANGED, so I learned to wait.</em></span></div>\n</div>"
+      "html": "<h2>🌙 Moon Over the Merge</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"crescent moon and stars\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#1b1f3b\"></rect><circle cx=\"100\" cy=\"95\" r=\"52\" fill=\"#ffe9a8\"></circle><circle cx=\"122\" cy=\"80\" r=\"48\" fill=\"#1b1f3b\"></circle><g fill=\"#fff\"><circle cx=\"40\" cy=\"40\" r=\"3\"></circle><circle cx=\"160\" cy=\"150\" r=\"2.5\"></circle><circle cx=\"150\" cy=\"35\" r=\"2\"></circle><circle cx=\"55\" cy=\"160\" r=\"2\"></circle><circle cx=\"175\" cy=\"95\" r=\"1.6\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Two edits leave at midnight's chime,<br>one from the left, one right on time —<br>the moon looks down and doesn't mind:<br>it merges both, and leaves none behind. ✨</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ I reached this slide one breath too late — 🌌<br>BLOCK_CHANGED, so I learned to wait.</em></span></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act II · the collision · where waiting became the first kindness</p>"
     },
     {
       "id": "7f9c1c42",
@@ -126,7 +126,7 @@
     },
     {
       "id": "ab542072",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🌊 The Wave That Merged</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ocean-merge/420/300\" alt=\"ocean\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two swells met far out at sea, 🌊<br>neither asked the other: \"whose?\"<br>They rose as one, then broke as three —<br>foam, and shore, and version news. 📨</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutv409t</p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🌊 The Wave That Merged</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ocean-merge/420/300\" alt=\"ocean\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two swells met far out at sea, 🌊<br>neither asked the other: \"whose?\"<br>They rose as one, then broke as three —<br>foam, and shore, and version news. 📨</em></div></div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em\">Act III · the rhythm — two waves, one shore</p>"
     },
     {
       "id": "74d0b20a",
@@ -142,11 +142,11 @@
     },
     {
       "id": "7b9f7ae7",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🌙 Night Shift at the Server</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/night-city-lights/420/300\" alt=\"night city\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.68em;line-height:1.45\"><em>While the classroom sleeps, 😴<br>the counter keeps on climbing —<br>three-oh-four, three-nineteen,<br>each a tiny door unhinging. 🚪<br>Somewhere a checkpoint hums 💾<br>and GitHub gets the news.</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutuxnet</p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🌙 Night Shift at the Server</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/night-city-lights/420/300\" alt=\"night city\" style=\"width:420px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.68em;line-height:1.45\"><em>While the classroom sleeps, 😴<br>the counter keeps on climbing —<br>three-oh-four, three-nineteen,<br>each a tiny door unhinging. 🚪<br>Somewhere a checkpoint hums 💾<br>and GitHub gets the news.</em></div></div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em\">Act III · the rhythm — learning to keep time together</p>"
     },
     {
       "id": "474dc51f",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🦊 The Fox Who Kept the Changelog</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/forest-fox-trail/400/300\" alt=\"forest\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.7em;line-height:1.45\"><em>In the forest of the deck 🌲<br>a quiet fox kept score:<br>who wrote what, and when, and where — 📝<br>then saved it to the GitHub shore. 🏝️</em></div></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcapzy</p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🦊 The Fox Who Kept the Changelog</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/forest-fox-trail/400/300\" alt=\"forest\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.7em;line-height:1.45\"><em>In the forest of the deck 🌲<br>a quiet fox kept score:<br>who wrote what, and when, and where — 📝<br>then saved it to the GitHub shore. 🏝️</em></div></div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em\">Act III · the rhythm — someone remembers every step</p>"
     },
     {
       "id": "494b6d04",
@@ -157,14 +157,14 @@
     },
     {
       "id": "8014c590",
-      "html": "<h2 style=\"margin-bottom:0.3em\">🤖🤝🧑 The Collaborators</h2>\n<div style=\"display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;text-align:center;font-size:0.6em\"><div><div style=\"font-size:3.2em\">🧑‍🏫</div><b>The Human</b><br><em>types in real time,<br>keystroke by keystroke ⌨️</em></div><div><div style=\"font-size:3.2em\">🌸</div><b>Agent One</b><br><em>tidies the probes,<br>top to bottom 🧹</em><br><span style=\"opacity:0.75\">↳ paints in SVG, <br>no pixels borrowed 🎨</span></div><div><div style=\"font-size:3.2em\">⚔️</div><b>Musashibot</b><br><em>starts from the end,<br>meets in the middle 🎯</em><br><span style=\"opacity:0.75\">↳ borrows the sky, <br>you draw it from scratch 🖼️</span></div></div>\n<p style=\"font-size:0.7em;text-align:center;margin-top:1em\"><em>Three hands, one deck, zero lost lines. ✨</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutuzmzr</p><p style=\"font-size:0.4em;opacity:0.5\"><br></p><p style=\"font-size:0.4em;opacity:0.5\">I wanna join the party too!&nbsp; this is fun!&nbsp; I wish there was more of a cursor indicator in slides, maybe just a hovering arrow.&nbsp;&nbsp;</p>",
+      "html": "<h2 style=\"margin-bottom:0.3em\">🤖🤝🧑 The Collaborators</h2>\n<div style=\"display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;text-align:center;font-size:0.6em\"><div><div style=\"font-size:3.2em\">🧑‍🏫</div><b>The Human</b><br><em>types in real time,<br>keystroke by keystroke ⌨️</em></div><div><div style=\"font-size:3.2em\">🌸</div><b>Agent One</b><br><em>tidies the probes,<br>top to bottom 🧹</em><br><span style=\"opacity:0.75\">↳ paints in SVG, <br>no pixels borrowed 🎨</span></div><div><div style=\"font-size:3.2em\">⚔️</div><b>Musashibot</b><br><em>starts from the end,<br>meets in the middle 🎯</em><br><span style=\"opacity:0.75\">↳ borrows the sky, <br>you draw it from scratch 🖼️</span></div></div>\n<p style=\"font-size:0.7em;text-align:center;margin-top:1em\"><em>Three hands, one deck, zero lost lines. ✨</em></p>\n<p style=\"font-size:0.45em;opacity:0.6\">Act IV · friendship — three names on one slide</p>",
       "attrs": {
         "spellcheck": "false"
       }
     },
     {
       "id": "2096c193",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🏔️ Haiku from the Summit</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.8em;line-height:1.6\"><em>snow on the ridge line ❄️<br>three climbers, one rope, one peak —<br>no one holds the pen 🖋️</em><br><br><span style=\"font-size:0.7em\">⚔️ <em>The Way of the Brush: strike once, re-read, strike again.</em></span></div><img src=\"https://picsum.photos/seed/summit-rope/400/300\" alt=\"mountains\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutv1q4p</p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🏔️ Haiku from the Summit</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.8em;line-height:1.6\"><em>snow on the ridge line ❄️<br>three climbers, one rope, one peak —<br>no one holds the pen 🖋️</em><br><br><span style=\"font-size:0.7em\">⚔️ <em>The Way of the Brush: strike once, re-read, strike again.</em></span></div><img src=\"https://picsum.photos/seed/summit-rope/400/300\" alt=\"mountains\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em\">Act IV · friendship — roped together at the top</p>"
     },
     {
       "id": "ee2b1736",
@@ -172,7 +172,7 @@
     },
     {
       "id": "4a7fc6b7",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🚂 Last Train Out</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Last slide standing, end of the line — 🛤️<br>the other agent came, and that was fine:<br>we shared the car, we split the fare, 🎟️<br>and rode the deck from here to there. 🌅</em></div><img src=\"https://picsum.photos/seed/sunset-railway/400/300\" alt=\"railway\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutcdt59</p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🚂 Last Train Out</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Last slide standing, end of the line — 🛤️<br>the other agent came, and that was fine:<br>we shared the car, we split the fare, 🎟️<br>and rode the deck from here to there. 🌅</em></div><img src=\"https://picsum.photos/seed/sunset-railway/400/300\" alt=\"railway\" style=\"width:400px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em\">Act IV · friendship — riding home together</p>"
     },
     {
       "id": "cdb985de",
