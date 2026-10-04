@@ -18,32 +18,6 @@
   <div class="reveal" data-theme="white" data-code-theme="monokai">
     <div class="slides">
 <section data-cm-id="7e686550" data-transition="zoom"><h1>Kitchen sink deck</h1><p class="fragment" data-fragment-index="0">Fragment one</p><p class="fragment fade-up" data-fragment-index="1">Fragment two</p><aside class="notes">Opening notes with <b>markup</b>.</aside></section>
-<section data-cm-id="9a39f8f4"><h2>New Slide</h2>
-<p>Add your content here...</p><div class="sl-block" data-block-type="svg" data-cm-block-id="ba6a40ae" style="left: 280px; top: 230px; width: 400px; height: 240px;"><div class="sl-block-content" style="color: rgb(225, 29, 72);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="100%" height="100%" preserveAspectRatio="xMidYMid meet"><circle cx="5" cy="5" r="4" fill="currentColor"></circle></svg></div></div><div class="sl-block" data-block-type="html" data-cm-block-id="e1e9b058" style="left: 307px; top: 231px; width: 433px; height: 268px;"><div class="sl-block-content" style=""><iframe sandbox="allow-scripts allow-pointer-lock allow-modals allow-popups" allow="fullscreen" style="width: 100%; height: 100%; border: 0px;" srcdoc="&lt;!DOCTYPE html&gt;&lt;script data-cm-storage-shim&gt;(function(){function m(){var d=new Map();return{get length(){return d.size},key:function(i){var k=Array.from(d.keys());return i&gt;=0&amp;&amp;i&lt;k.length?k[i]:null},getItem:function(k){k=String(k);return d.has(k)?d.get(k):null},setItem:function(k,v){d.set(String(k),String(v))},removeItem:function(k){d.delete(String(k))},clear:function(){d.clear()}}}['localStorage','sessionStorage'].forEach(function(n){try{if(window[n])return}catch(e){}try{Object.defineProperty(window,n,{value:m(),configurable:true,enumerable:true})}catch(e){}})})();&lt;/script&gt;
-&lt;html&gt;&lt;body style=&quot;margin:0;background:#0f172a&quot;&gt;
-&lt;canvas id=&quot;c&quot; width=&quot;640&quot; height=&quot;400&quot;&gt;&lt;/canvas&gt;
-&lt;script&gt;
-// cm-game-marker
-const c = document.getElementById('c'), g = c.getContext('2d');
-let x = 50, dx = 4; window.score = 0;
-c.addEventListener('click', () =&gt; { window.score++; });
-function frame() {
-  x += dx; if (x &lt; 30 || x &gt; 610) dx = -dx;
-  g.fillStyle = '#0f172a'; g.fillRect(0, 0, 640, 400);
-  g.fillStyle = '#facc15'; g.beginPath(); g.arc(x, 200, 30, 0, 7); g.fill();
-  g.fillStyle = '#fff'; g.font = '28px sans-serif'; g.fillText('Score ' + window.score, 20, 40);
-  requestAnimationFrame(frame);
-}
-frame();
-localStorage.setItem('k', 'v');
-&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;
-"></iframe></div></div></section>
-<section data-cm-id="3efb283f"><h2>New Slide</h2>
-<p>Add your content here...</p></section>
-<section data-cm-id="d275d693"><h2>New Slide</h2>
-<p>Add your content here...</p></section>
-<section data-cm-id="8d74fb3f"><h2>New Slide</h2>
-<p>Add your content here...</p></section>
 <section data-cm-id="0d200f83"><h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a-mutccs0p]mutbiain]mutbflww]muta10zw]</p><aside class="notes">Notes for slide A.</aside></section>
 <section data-cm-id="ef36cb65"><h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww]</p></section>
 <section data-cm-id="690e650b" data-background-color="#112233"><h2>Code</h2><pre><code class="language-js" data-line-numbers="">const a = 1 &lt; 2;
@@ -67,6 +41,7 @@ console.log(a);</code></pre></section>
 <section data-cm-id="8e3a3dbf" data-caption="He said &quot;hi&quot; &amp; left"><h2>Fragments</h2><ul><li class="fragment">First</li><li class="fragment">Second</li><li class="fragment highlight-red">Third</li></ul></section>
 <section data-cm-id="77dfba6c"><h2>Video</h2><video controls="" width="640" src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"></video></section>
 <section data-cm-id="1563699e"><h2>Questions?</h2></section>
+<section data-cm-id="bf12ad49"><h2>Blocks muufiz8o</h2></section>
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
