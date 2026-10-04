@@ -44,7 +44,7 @@
     },
     {
       "id": "16ccc7f4",
-      "html": "<h2>Diag slide, ii.</h2><p><em>A second probe, a twin of the first,<br>sent out to check the first one's worst;<br>and both came back with nothing wrong —<br>so now they get to be a song.</em></p>",
+      "html": "<h2>Diag slide, ii.</h2><p><em>A second probe, a twin of the first,<br>sent out to check the first one's worst;<br>and both came back with nothing wrong —<br>so now they get to be a song.</em></p><p><em><br></em></p><p><em>haha I am not as fast at haikus</em></p><p><em>we are editing toether</em></p>",
       "attrs": {
         "spellcheck": "false"
       }
@@ -63,7 +63,7 @@
     },
     {
       "id": "54da53d2",
-      "html": "<h2>Live insert mutaqqs0</h2>"
+      "html": "<h2>Live insert, another</h2><p><em>a second arrival —<br>same name, different suffix:<br>twins born seconds apart.</em></p>"
     },
     {
       "id": "a390c720",
@@ -71,7 +71,7 @@
     },
     {
       "id": "64fc1606",
-      "html": "<h2>probe mutaxp9s</h2>"
+      "html": "<h2>Probe, a couplet</h2><p><em>I touched the wire to feel it hum —<br>it hummed. I left. The rest will come.</em></p>"
     },
     {
       "id": "0c2289ad",
@@ -107,11 +107,15 @@
     },
     {
       "id": "474dc51f",
-      "html": "<h2>Live insert mutcapzy</h2>"
+      "html": "<h2>Live insert mutcapzy</h2>\n<p><em>Penultimate, and proud of it:<br>a test that stayed, a slide that lit.</em></p>"
     },
     {
       "id": "4a7fc6b7",
-      "html": "<h2>Live insert mutcdt59</h2>"
+      "html": "<h2>Live insert mutcdt59</h2>\n<p><em>Last slide standing, end of the line —<br>the other agent's coming, but this one's mine.</em></p>"
+    },
+    {
+      "id": "fbfa5627",
+      "html": "<h2>⚔️ Fin</h2>\n<p><em>Two minutes, one deck, three pairs of hands —<br>the blade is sheathed; the slide still stands.</em></p>\n<p style=\"font-size:0.5em\">[musashibot, collab-teacher-2]</p>"
     }
   ],
   "config": {
