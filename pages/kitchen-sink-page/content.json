@@ -1027,23 +1027,6 @@
       },
       "content": [],
       "children": []
-    },
-    {
-      "id": "repro-mutww4nr",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "repro mutww4nr",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ],
   "coverImage": {
