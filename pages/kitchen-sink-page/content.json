@@ -1027,40 +1027,6 @@
       },
       "content": [],
       "children": []
-    },
-    {
-      "id": "ac1-mutx5et7",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Agent one wrote this mutx5et7",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "ac2-mutx5et7",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Agent two wrote this mutx5et7",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ],
   "coverImage": {
