@@ -22,6 +22,14 @@
     {
       "id": "a3eb7728",
       "html": "<h2>Questions?</h2>"
+    },
+    {
+      "id": "cc333114",
+      "html": "<h2>Too much text</h2><ul><li>One long bullet that keeps going and going so that the list grows</li><li>Two</li><li>Three</li><li>Four</li><li>Five</li><li>Six</li><li>Seven</li><li>Eight</li><li>Nine</li><li>Ten</li><li>Eleven</li><li>Twelve</li></ul>"
+    },
+    {
+      "id": "196480e4",
+      "html": "<h2>Wide code</h2><pre><code class=\"language-js\">const reallyLongVariableNameNumberOne = someFunctionCall(argumentOne, argumentTwo, argumentThree, argumentFour);</code></pre><p>Supercalifragilisticexpialidocious_and_an_unbreakable_identifier_that_runs_off_the_right_edge_of_the_slide</p>"
     }
   ]
 }
