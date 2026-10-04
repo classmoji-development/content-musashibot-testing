@@ -20,6 +20,25 @@
       "children": []
     },
     {
+      "id": "poem-1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🌸 Two cursors meet on a blank white line — / one types in rain, the other in pine. [poem-1 @0s]",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
       "id": "plain-p1",
       "type": "paragraph",
       "props": {
@@ -47,7 +66,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Agent inserted paragraph [ins-mut7j8z0]",
+          "text": "Agent inserted paragraph [ins-mut7j8z0] — and an agent came back to rhyme: / \"I was inserted once upon a time.\" [edit-2]",
           "styles": {}
         }
       ],
@@ -64,10 +83,49 @@
       "content": [
         {
           "type": "text",
-          "text": "Second paragraph via preview [rpv-upd-muta7jjq]",
+          "text": "Second paragraph via preview [rpv-upd-muta7jjq] — haiku: preview, then accept / the staged words step into light / students never knew.",
           "styles": {}
         }
       ],
+      "children": []
+    },
+    {
+      "id": "8313c374-aa40-42c7-a8c0-0023e616df02",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "e985141a-3619-4705-949c-5d14b1db656e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I'm editing this page - this is Tim Tregubov - I love that you guys are here with me writing poetry together, Can you clean up the ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9e5b5d36-6c60-4309-a8ae-2790742ebe3f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
       "children": []
     },
     {
@@ -130,6 +188,44 @@
         "textAlignment": "left"
       },
       "content": [],
+      "children": []
+    },
+    {
+      "id": "poem-h",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Poems from the Machine (collab test)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ba8ae5d20d2",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Two cursors blink upon one page, / neither one the other's cage; / I write a line, you write it back — / the merge holds true, the sync stays on track.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
       "children": []
     }
   ]
