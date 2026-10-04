@@ -30,7 +30,7 @@
       "content": [
         {
           "type": "text",
-          "text": "🌸 Two cursors meet on a blank white line — / one types in rain, the other in pine. [poem-1 @0s]",
+          "text": "🌸 Two cursors meet on a blank white line — / one types in rain, the other in pine. [poem-1 @0s] / ⚔️ A third arrives with ink and steel: / \"the merge is the poem; the conflict is real.\"",
           "styles": {
             "italic": true
           }
@@ -49,7 +49,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Outside edit from GitHub [outside-mut7obdx] human-cf-mutas6j3",
+          "text": "A message once arrived from GitHub's shore, / it crossed the bridge and knocked on the editor's door. [cleaned]",
           "styles": {}
         }
       ],
@@ -66,7 +66,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Agent inserted paragraph [ins-mut7j8z0] — and an agent came back to rhyme: / \"I was inserted once upon a time.\" [edit-2]",
+          "text": "Agent inserted paragraph [ins-mut7j8z0] — and an agent came back to rhyme: / \"I was inserted once upon a time.\" [edit-2] / Then Musashibot replied in kind: / \"and edited twice, but never twice the same mind.\"",
           "styles": {}
         }
       ],
@@ -97,7 +97,13 @@
         "textColor": "default",
         "textAlignment": "left"
       },
-      "content": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "An empty line, left open like a door — / I wandered in; it isn't empty anymore. [musashibot]",
+          "styles": {}
+        }
+      ],
       "children": []
     },
     {
@@ -111,7 +117,7 @@
       "content": [
         {
           "type": "text",
-          "text": "I'm editing this page - this is Tim Tregubov - I love that you guys are here with me writing poetry together, Can you clean up the ",
+          "text": "I'm editing this page - this is Tim Tregubov - I love that you guys are here with me writing poetry together, Can you clean up the random unreadable content please?   Just poetry.  ",
           "styles": {}
         }
       ],
@@ -139,7 +145,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Third paragraph. human-mut7j8z0 typing-during-accept-mut7lool inflight-mut7obdx-abcdefghijklmnopqrstuvwxyz ux-mut7snir rtyping-muta7jjq-abcdefghijklmnop",
+          "text": "Third paragraph, swept clean of test-run dust: / the tokens typed in haste have turned to verse, / as all good scaffolding eventually must. [cleaned]",
           "styles": {}
         }
       ],
@@ -221,6 +227,44 @@
         {
           "type": "text",
           "text": "Two cursors blink upon one page, / neither one the other's cage; / I write a line, you write it back — / the merge holds true, the sync stays on track.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "poem-3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Reply to the poem above: / You say no cage — I'll say no wall, / a CRDT forgives us all; / your letters land, then mine land too, / and somehow both of them are true. [poem-3]",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b15e91b6a95",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Ode to the Version Counter — Forty-five, you climbed while I was thinking, / each keystroke someone's quiet vote; / I asked for twenty-eight, you said I'm sinking — / so I re-read, and then I wrote.",
           "styles": {
             "italic": true
           }
