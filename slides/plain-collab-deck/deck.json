@@ -180,7 +180,8 @@
       "html": "<h2>🌙 Moon Over the Merge</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"crescent moon and stars\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#1b1f3b\"></rect><circle cx=\"100\" cy=\"95\" r=\"52\" fill=\"#ffe9a8\"></circle><circle cx=\"122\" cy=\"80\" r=\"48\" fill=\"#1b1f3b\"></circle><g fill=\"#fff\"><circle cx=\"40\" cy=\"40\" r=\"3\"></circle><circle cx=\"160\" cy=\"150\" r=\"2.5\"></circle><circle cx=\"150\" cy=\"35\" r=\"2\"></circle><circle cx=\"55\" cy=\"160\" r=\"2\"></circle><circle cx=\"175\" cy=\"95\" r=\"1.6\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Two edits leave at midnight's chime,<br>one from the left, one right on time —<br>the moon looks down and doesn't mind:<br>it merges both, and leaves none behind. ✨</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ I reached this slide one breath too late — 🌌<br>BLOCK_CHANGED, so I learned to wait.</em></span></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act II · the collision · where waiting became the first kindness</p>",
       "attrs": {
         "data-background-color": "#fcf3f1",
-        "data-transition": "slide"
+        "data-transition": "slide",
+        "spellcheck": "false"
       }
     },
     {
