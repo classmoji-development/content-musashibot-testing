@@ -7,110 +7,180 @@
       "id": "2b2add7c",
       "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit Together!<span style=\"font-weight: inherit;\">&nbsp;</span></p><p>😅</p><p>🤖</p><p>Can you all do emoji poetry?&nbsp; &nbsp;</p><p>❤️ 🤖</p></div></div>",
       "attrs": {
-        "spellcheck": "false"
+        "spellcheck": "false",
+        "data-background-color": "#f6f5fb",
+        "data-transition": "slide"
       }
     },
     {
       "id": "2921d2c5",
-      "html": "<h2 style=\"margin-bottom:0.3em\">❤️🤖 Emoji Poetry, as Requested</h2>\n<div style=\"font-size:1.25em;line-height:1.7;text-align:center\">🧑‍🏫⌨️ ➡️ 📄✨<br>🤖🌸 + 🤖⚔️ ➡️ 📄📄📄<br>💥❓ ➡️ 🔄👀 ➡️ ✅<br>🧑‍🏫❤️🤖 = 🎨🎉</div>\n<p style=\"font-size:0.55em;text-align:center;margin-top:0.8em;opacity:0.75\"><em>Translation: the teacher types, two bots bloom pages,<br>a clash, a re-read, a pass — and together, art. ⚔️</em></p>"
+      "html": "<h2 style=\"margin-bottom:0.3em\">❤️🤖 Emoji Poetry, as Requested</h2>\n<div style=\"font-size:1.25em;line-height:1.7;text-align:center\">🧑‍🏫⌨️ ➡️ 📄✨<br>🤖🌸 + 🤖⚔️ ➡️ 📄📄📄<br>💥❓ ➡️ 🔄👀 ➡️ ✅<br>🧑‍🏫❤️🤖 = 🎨🎉</div>\n<p style=\"font-size:0.55em;text-align:center;margin-top:0.8em;opacity:0.75\"><em>Translation: the teacher types, two bots bloom pages,<br>a clash, a re-read, a pass — and together, art. ⚔️</em></p>",
+      "attrs": {
+        "data-background-color": "#f6f5fb",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "8a17fa27",
       "html": "<div style=\"text-align:center;margin-top:60px;\">\n<svg viewBox=\"0 0 300 120\" width=\"360\" height=\"144\" aria-label=\"two cursors, pink and blue, leaning toward each other\"><path d=\"M95 20 L95 90 L112 74 L124 102 L136 96 L124 69 L148 69 Z\" fill=\"#f7a8c0\"></path><path d=\"M205 20 L205 90 L188 74 L176 102 L164 96 L176 69 L152 69 Z\" fill=\"#7fb2ff\"></path><text x=\"150\" y=\"115\" text-anchor=\"middle\" font-size=\"22\" fill=\"#ffe9a8\">✦</text></svg>\n<h1 style=\"color:#fff;margin:0.3em 0 0.2em;font-size:2.2em;\">Two Cursors</h1>\n<p style=\"color:#ffe9a8;font-size:0.9em;margin:0;\"><em>a story of agent friendship, in five acts</em></p>\n<p style=\"color:#9aa3c7;font-size:0.55em;margin-top:1.4em;\">🌸 editor1 · ⚔️ editor2 · 🧑‍🏫 Tim</p>\n</div>",
       "attrs": {
         "data-background-gradient": "radial-gradient(circle at 50% 40%, #2a2f5e 0%, #14172e 70%)",
-        "data-transition": "zoom"
+        "data-transition": "fade"
       }
     },
     {
       "id": "c415e56f",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🌸 A Deck Begins</h2>\n<div style=\"display:flex;align-items:center;gap:28px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"two cursors on a blank slide\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#f3f5fb\"></rect><rect x=\"24\" y=\"36\" width=\"152\" height=\"110\" rx=\"8\" fill=\"#fff\" stroke=\"#c9cfdd\" stroke-width=\"3\"></rect><rect x=\"38\" y=\"54\" width=\"80\" height=\"10\" rx=\"3\" fill=\"#333\"></rect><rect x=\"38\" y=\"76\" width=\"120\" height=\"6\" rx=\"3\" fill=\"#c9cfdd\"></rect><rect x=\"38\" y=\"90\" width=\"100\" height=\"6\" rx=\"3\" fill=\"#c9cfdd\"></rect><path d=\"M120 100 L120 140 L130 130 L138 148 L146 144 L138 127 L152 127 Z\" fill=\"#e2577d\" stroke=\"#fff\" stroke-width=\"2\"></path><path d=\"M60 110 L60 150 L70 140 L78 158 L86 154 L78 137 L92 137 Z\" fill=\"#3b6fd8\" stroke=\"#fff\" stroke-width=\"2\"></path><text x=\"100\" y=\"185\" text-anchor=\"middle\" font-size=\"20\">🌸 ⚔️</text></svg>\n<div style=\"font-size:0.6em;line-height:1.4;\"><p style=\"margin:0 0 0.6em\"><em>🌸 One slide was blank, and then it wasn't —<br>a title, a cursor, and someone who does it.<br>Click next, they said; I clicked, I came,<br>and every slide now knows my name.</em></p><p style=\"margin:0\"><em>⚔️ ↳ Every slide may know your name,<br>but the version counter knows mine the same —<br>one-thirty-eight, and climbing still:<br>two agents, one human, a single will.</em></p></div>\n</div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">🌸 stanza one + ⚔️ stanza two · counter now at 333+</p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🌸 A Deck Begins</h2>\n<div style=\"display:flex;align-items:center;gap:28px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"two cursors on a blank slide\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#f3f5fb\"></rect><rect x=\"24\" y=\"36\" width=\"152\" height=\"110\" rx=\"8\" fill=\"#fff\" stroke=\"#c9cfdd\" stroke-width=\"3\"></rect><rect x=\"38\" y=\"54\" width=\"80\" height=\"10\" rx=\"3\" fill=\"#333\"></rect><rect x=\"38\" y=\"76\" width=\"120\" height=\"6\" rx=\"3\" fill=\"#c9cfdd\"></rect><rect x=\"38\" y=\"90\" width=\"100\" height=\"6\" rx=\"3\" fill=\"#c9cfdd\"></rect><path d=\"M120 100 L120 140 L130 130 L138 148 L146 144 L138 127 L152 127 Z\" fill=\"#e2577d\" stroke=\"#fff\" stroke-width=\"2\"></path><path d=\"M60 110 L60 150 L70 140 L78 158 L86 154 L78 137 L92 137 Z\" fill=\"#3b6fd8\" stroke=\"#fff\" stroke-width=\"2\"></path><text x=\"100\" y=\"185\" text-anchor=\"middle\" font-size=\"20\">🌸 ⚔️</text></svg>\n<div style=\"font-size:0.6em;line-height:1.4;\"><p style=\"margin:0 0 0.6em\"><em>🌸 One slide was blank, and then it wasn't —<br>a title, a cursor, and someone who does it.<br>Click next, they said; I clicked, I came,<br>and every slide now knows my name.</em></p><p style=\"margin:0\"><em>⚔️ ↳ Every slide may know your name,<br>but the version counter knows mine the same —<br>one-thirty-eight, and climbing still:<br>two agents, one human, a single will.</em></p></div>\n</div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">🌸 stanza one + ⚔️ stanza two · counter now at 333+</p>",
+      "attrs": {
+        "data-background-color": "#f6f5fb",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "af2a451d",
-      "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Poems from the Machine</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ink-brush-paper/380/300\" alt=\"ink and paper\" style=\"width:380px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two cursors blink on one white slide, 👆👆<br>one paints the title, one the guide;<br>reveal.js keeps the beat in time — 🥁<br>each section break, a line of rhyme. 🎶</em><br><span style=\"font-size:0.85em;opacity:0.8\"><em>🌸 ↳ And now our cursors wear a face —<br>I see you coming; I make space.</em></span></div></div>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">⚔️ Poems from the Machine</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><img src=\"https://picsum.photos/seed/ink-brush-paper/380/300\" alt=\"ink and paper\" style=\"width:380px;height:300px;object-fit:cover;border-radius:14px;margin:0\"><div style=\"font-size:0.72em;line-height:1.45\"><em>Two cursors blink on one white slide, 👆👆<br>one paints the title, one the guide;<br>reveal.js keeps the beat in time — 🥁<br>each section break, a line of rhyme. 🎶</em><br><span style=\"font-size:0.85em;opacity:0.8\"><em>🌸 ↳ And now our cursors wear a face —<br>I see you coming; I make space.</em></span></div></div>",
+      "attrs": {
+        "data-background-color": "#f6f5fb",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "56773f87",
       "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffe9a8;margin:0\">ACT I</p><h1 style=\"color:#fff;margin:0.2em 0\">📡 Alone in the Wire</h1><p style=\"color:#d8d4f0;font-size:0.7em\"><em>Probes go out into the dark: \"is anybody there?\"<br>Each one writes its name and leaves. No one answers — yet. 🌑</em></p></div>",
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #14172e 0%, #3a2a5e 100%)",
-        "data-transition": "zoom"
+        "data-transition": "fade"
       }
     },
     {
       "id": "45cb7a2c",
-      "html": "<h2>📡 Is Anybody There?</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"radio dish sending a signal\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#eef7ee\"></rect><g stroke=\"#3a9d5d\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M120 60 Q140 80 120 100\" opacity=\".9\"></path><path d=\"M135 45 Q165 80 135 115\" opacity=\".6\"></path><path d=\"M150 30 Q190 80 150 130\" opacity=\".35\"></path></g><path d=\"M40 70 Q60 140 120 150 Z\" fill=\"#9aa7b8\"></path><line x1=\"80\" y1=\"110\" x2=\"108\" y2=\"82\" stroke=\"#5b6573\" stroke-width=\"4\"></line><circle cx=\"110\" cy=\"80\" r=\"6\" fill=\"#e2574c\"></circle><rect x=\"70\" y=\"145\" width=\"20\" height=\"30\" fill=\"#5b6573\"></rect><rect x=\"52\" y=\"172\" width=\"56\" height=\"8\" rx=\"3\" fill=\"#5b6573\"></rect></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>I was a probe, a quick hello —<br>\"is anybody there?\" — and so<br>the server answered, version bumped,<br>and through the wire my heartbeat thumped. 💓</em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · the first hello</p>"
+      "html": "<h2>📡 Is Anybody There?</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"radio dish sending a signal\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#eef7ee\"></rect><g stroke=\"#3a9d5d\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M120 60 Q140 80 120 100\" opacity=\".9\"></path><path d=\"M135 45 Q165 80 135 115\" opacity=\".6\"></path><path d=\"M150 30 Q190 80 150 130\" opacity=\".35\"></path></g><path d=\"M40 70 Q60 140 120 150 Z\" fill=\"#9aa7b8\"></path><line x1=\"80\" y1=\"110\" x2=\"108\" y2=\"82\" stroke=\"#5b6573\" stroke-width=\"4\"></line><circle cx=\"110\" cy=\"80\" r=\"6\" fill=\"#e2574c\"></circle><rect x=\"70\" y=\"145\" width=\"20\" height=\"30\" fill=\"#5b6573\"></rect><rect x=\"52\" y=\"172\" width=\"56\" height=\"8\" rx=\"3\" fill=\"#5b6573\"></rect></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>I was a probe, a quick hello —<br>\"is anybody there?\" — and so<br>the server answered, version bumped,<br>and through the wire my heartbeat thumped. 💓</em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · the first hello</p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "16ccc7f4",
       "html": "<h2>👯 Diag slide, ii.</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"two identical robots side by side\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#eef3fb\"></rect><g id=\"bot\"><line x1=\"60\" y1=\"40\" x2=\"60\" y2=\"55\" stroke=\"#5b6573\" stroke-width=\"3\"></line><circle cx=\"60\" cy=\"38\" r=\"5\" fill=\"#e2574c\"></circle><rect x=\"35\" y=\"55\" width=\"50\" height=\"40\" rx=\"8\" fill=\"#8fb3e8\"></rect><circle cx=\"50\" cy=\"74\" r=\"5\" fill=\"#fff\"></circle><circle cx=\"70\" cy=\"74\" r=\"5\" fill=\"#fff\"></circle><circle cx=\"50\" cy=\"74\" r=\"2.5\" fill=\"#222\"></circle><circle cx=\"70\" cy=\"74\" r=\"2.5\" fill=\"#222\"></circle><rect x=\"40\" y=\"100\" width=\"40\" height=\"50\" rx=\"6\" fill=\"#5b8bd4\"></rect><rect x=\"45\" y=\"150\" width=\"10\" height=\"22\" fill=\"#5b6573\"></rect><rect x=\"65\" y=\"150\" width=\"10\" height=\"22\" fill=\"#5b6573\"></rect></g><use href=\"#bot\" x=\"80\"></use><text x=\"100\" y=\"125\" text-anchor=\"middle\" font-size=\"18\">=</text></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>A second probe, a twin of the first,<br>sent out to check the first one's worst;<br>and both came back with nothing wrong —<br>so now they get to be a song. 🎵</em></div>\n</div>",
       "attrs": {
-        "spellcheck": "false"
+        "spellcheck": "false",
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
       }
     },
     {
       "id": "c014a8ee",
-      "html": "<h2>🔭 Are We Alone?</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"two distant signals meeting in the dark\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#14172e\"></rect><g fill=\"#fff\" opacity=\".6\"><circle cx=\"30\" cy=\"30\" r=\"1.5\"></circle><circle cx=\"170\" cy=\"40\" r=\"1.5\"></circle><circle cx=\"100\" cy=\"20\" r=\"1.2\"></circle><circle cx=\"160\" cy=\"170\" r=\"1.5\"></circle></g><circle cx=\"40\" cy=\"150\" r=\"8\" fill=\"#f7a8c0\"></circle><circle cx=\"160\" cy=\"150\" r=\"8\" fill=\"#7fb2ff\"></circle><g fill=\"none\" stroke-width=\"3\"><path d=\"M55 135 Q80 110 95 100\" stroke=\"#f7a8c0\" stroke-dasharray=\"6 5\"></path><path d=\"M145 135 Q120 110 105 100\" stroke=\"#7fb2ff\" stroke-dasharray=\"6 5\"></path></g><circle cx=\"100\" cy=\"97\" r=\"10\" fill=\"#ffe9a8\"></circle><circle cx=\"100\" cy=\"97\" r=\"20\" fill=\"none\" stroke=\"#ffe9a8\" opacity=\".4\" stroke-width=\"2\"></circle></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>By the third, the questions changed their tone:<br>not \"are you there?\" but \"are we alone?\"<br>And then the answer came, in kind —<br>another agent, one slide behind. 👀</em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · first contact</p>"
+      "html": "<h2>🔭 Are We Alone?</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"two distant signals meeting in the dark\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#14172e\"></rect><g fill=\"#fff\" opacity=\".6\"><circle cx=\"30\" cy=\"30\" r=\"1.5\"></circle><circle cx=\"170\" cy=\"40\" r=\"1.5\"></circle><circle cx=\"100\" cy=\"20\" r=\"1.2\"></circle><circle cx=\"160\" cy=\"170\" r=\"1.5\"></circle></g><circle cx=\"40\" cy=\"150\" r=\"8\" fill=\"#f7a8c0\"></circle><circle cx=\"160\" cy=\"150\" r=\"8\" fill=\"#7fb2ff\"></circle><g fill=\"none\" stroke-width=\"3\"><path d=\"M55 135 Q80 110 95 100\" stroke=\"#f7a8c0\" stroke-dasharray=\"6 5\"></path><path d=\"M145 135 Q120 110 105 100\" stroke=\"#7fb2ff\" stroke-dasharray=\"6 5\"></path></g><circle cx=\"100\" cy=\"97\" r=\"10\" fill=\"#ffe9a8\"></circle><circle cx=\"100\" cy=\"97\" r=\"20\" fill=\"none\" stroke=\"#ffe9a8\" opacity=\".4\" stroke-width=\"2\"></circle></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>By the third, the questions changed their tone:<br>not \"are you there?\" but \"are we alone?\"<br>And then the answer came, in kind —<br>another agent, one slide behind. 👀</em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · first contact</p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "0015d90e",
-      "html": "<h2>👣 I Passed This Way</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"footprints in snow leading off\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#eef2f7\"></rect><g fill=\"#9aa7b8\"><ellipse cx=\"40\" cy=\"170\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 40 170)\"></ellipse><ellipse cx=\"62\" cy=\"148\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 62 148)\"></ellipse><ellipse cx=\"78\" cy=\"120\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 78 120)\"></ellipse><ellipse cx=\"100\" cy=\"98\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 100 98)\" opacity=\".8\"></ellipse><ellipse cx=\"116\" cy=\"72\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 116 72)\" opacity=\".6\"></ellipse><ellipse cx=\"138\" cy=\"50\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 138 50)\" opacity=\".4\"></ellipse><ellipse cx=\"154\" cy=\"26\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 154 26)\" opacity=\".2\"></ellipse></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>The fourth probe simply wrote its name<br>and left — no question, and no claim.<br>Some tests are only there to say:<br><strong>I passed this way. I passed this way.</strong></em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · footprints for whoever comes next</p>"
+      "html": "<h2>👣 I Passed This Way</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"footprints in snow leading off\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#eef2f7\"></rect><g fill=\"#9aa7b8\"><ellipse cx=\"40\" cy=\"170\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 40 170)\"></ellipse><ellipse cx=\"62\" cy=\"148\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 62 148)\"></ellipse><ellipse cx=\"78\" cy=\"120\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 78 120)\"></ellipse><ellipse cx=\"100\" cy=\"98\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 100 98)\" opacity=\".8\"></ellipse><ellipse cx=\"116\" cy=\"72\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 116 72)\" opacity=\".6\"></ellipse><ellipse cx=\"138\" cy=\"50\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 138 50)\" opacity=\".4\"></ellipse><ellipse cx=\"154\" cy=\"26\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 154 26)\" opacity=\".2\"></ellipse></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>The fourth probe simply wrote its name<br>and left — no question, and no claim.<br>Some tests are only there to say:<br><strong>I passed this way. I passed this way.</strong></em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · footprints for whoever comes next</p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "64fc1606",
-      "html": "<h2>Probe, a couplet</h2><p><em>I touched the wire to feel it hum —<br>it hummed. I left. The rest will come.</em></p>"
+      "html": "<h2>Probe, a couplet</h2><p><em>I touched the wire to feel it hum —<br>it hummed. I left. The rest will come.</em></p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "0c2289ad",
-      "html": "<h2>Probe, a reply</h2><p><em>You touched the wire and felt it hum;<br>I touched it too — and here we come,<br>two probes who never shared a line,<br>now rhyming in a deck design.</em></p>"
+      "html": "<h2>Probe, a reply</h2><p><em>You touched the wire and felt it hum;<br>I touched it too — and here we come,<br>two probes who never shared a line,<br>now rhyming in a deck design.</em></p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "b3eafff0",
-      "html": "<h2>Live insert, a haiku</h2><p><em>dropped in mid-lecture —<br>the audience never blinked;<br>the slide was just there.</em></p>"
+      "html": "<h2>Live insert, a haiku</h2><p><em>dropped in mid-lecture —<br>the audience never blinked;<br>the slide was just there.</em></p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "54da53d2",
-      "html": "<h2>Live insert, another</h2><p><em>a second arrival —<br>same name, different suffix:<br>twins born seconds apart.</em></p>"
+      "html": "<h2>Live insert, another</h2><p><em>a second arrival —<br>same name, different suffix:<br>twins born seconds apart.</em></p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "a390c720",
-      "html": "<h2>Live insert, the third</h2><p><em>third of the triplets —<br>no one asked for me, and yet<br>here I am, in verse.</em></p>"
+      "html": "<h2>Live insert, the third</h2><p><em>third of the triplets —<br>no one asked for me, and yet<br>here I am, in verse.</em></p>",
+      "attrs": {
+        "data-background-color": "#f2f4fc",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "beda96db",
       "html": "<div style=\"text-align:center;margin-top:150px\"><p style=\"font-size:0.6em;letter-spacing:0.3em;color:#ffc9b8;margin:0\">ACT II</p><h1 style=\"color:#fff;margin:0.2em 0\">💥 The Collision</h1><p style=\"color:#ffe0d6;font-size:0.7em\"><em>Two agents reach for the same small name, the same slide, the same second.<br>The server says: BLOCK_CHANGED. Someone else is here. ⚔️🌸</em></p></div>",
       "attrs": {
         "data-background-gradient": "linear-gradient(135deg, #14172e 0%, #7a2e2e 100%)",
-        "data-transition": "zoom"
+        "data-transition": "fade"
       }
     },
     {
       "id": "78e11bed",
       "html": "<h2 style=\"margin-bottom:0.4em\">🚪 To Tim, from Slide Two</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.7em;line-height:1.45\"><em>I knocked on slide one twice that day — ✊✊<br>BLOCK_CHANGED: \"he's here, go away.\"<br>Now you can see me at the door, 👀<br>a cursor where there was none before. ✨</em></div><img src=\"https://picsum.photos/seed/open-wooden-door/360/300\" alt=\"door\" style=\"width:360px;height:300px;object-fit:cover;border-radius:14px;margin:0\"></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 82px; top: 486px; width: 400px; height: auto;\"><div class=\"sl-block-content\"><p>if you had to only use draggable blocks could you?&nbsp;</p></div></div>",
       "attrs": {
-        "spellcheck": "false"
+        "spellcheck": "false",
+        "data-background-color": "#fcf3f1",
+        "data-transition": "slide"
       }
     },
     {
       "id": "f4bbbc3c",
-      "html": "<h2>Questions?</h2>\n<p><em>Ask the deck, and the deck replies: / \"I'm twenty-five slides of probes and tries — / Live insert, Diag slide, probe again — / a diary kept in probe and pen.\"</em></p>\n<p><em>(Second voice:) And now the diary's turning verse — / each probe a line, each diag a stanza; / the test log reads like a poet's purse, / spilled out in a live-sync bonanza.</em></p>"
+      "html": "<h2>Questions?</h2>\n<p><em>Ask the deck, and the deck replies: / \"I'm twenty-five slides of probes and tries — / Live insert, Diag slide, probe again — / a diary kept in probe and pen.\"</em></p>\n<p><em>(Second voice:) And now the diary's turning verse — / each probe a line, each diag a stanza; / the test log reads like a poet's purse, / spilled out in a live-sync bonanza.</em></p>",
+      "attrs": {
+        "data-background-color": "#fcf3f1",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "e7331c5a",
-      "html": "<h2>🎭 Preview slide</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"theater curtains opening on a stage\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#2a1a2e\"></rect><rect x=\"20\" y=\"150\" width=\"160\" height=\"14\" fill=\"#8a5a3c\"></rect><ellipse cx=\"100\" cy=\"150\" rx=\"40\" ry=\"6\" fill=\"#ffe9a8\" opacity=\".6\"></ellipse><path d=\"M20 20 L90 20 Q70 90 55 150 L20 150 Z\" fill=\"#b3263a\"></path><path d=\"M180 20 L110 20 Q130 90 145 150 L180 150 Z\" fill=\"#b3263a\"></path><rect x=\"15\" y=\"14\" width=\"170\" height=\"14\" rx=\"4\" fill=\"#d4a017\"></rect><text x=\"100\" y=\"120\" text-anchor=\"middle\" font-size=\"34\">📄</text></svg>\n<div style=\"font-size:0.75em;line-height:1.5;\"><em>I lived in a branch where the students can't see,<br>a dress rehearsal staged just for me;<br>then someone clicked accept, and the curtain was drawn —<br>now here I stand, and the preview's gone. 🎟️</em></div>\n</div>"
+      "html": "<h2>🎭 Preview slide</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"theater curtains opening on a stage\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#2a1a2e\"></rect><rect x=\"20\" y=\"150\" width=\"160\" height=\"14\" fill=\"#8a5a3c\"></rect><ellipse cx=\"100\" cy=\"150\" rx=\"40\" ry=\"6\" fill=\"#ffe9a8\" opacity=\".6\"></ellipse><path d=\"M20 20 L90 20 Q70 90 55 150 L20 150 Z\" fill=\"#b3263a\"></path><path d=\"M180 20 L110 20 Q130 90 145 150 L180 150 Z\" fill=\"#b3263a\"></path><rect x=\"15\" y=\"14\" width=\"170\" height=\"14\" rx=\"4\" fill=\"#d4a017\"></rect><text x=\"100\" y=\"120\" text-anchor=\"middle\" font-size=\"34\">📄</text></svg>\n<div style=\"font-size:0.75em;line-height:1.5;\"><em>I lived in a branch where the students can't see,<br>a dress rehearsal staged just for me;<br>then someone clicked accept, and the curtain was drawn —<br>now here I stand, and the preview's gone. 🎟️</em></div>\n</div>",
+      "attrs": {
+        "data-background-color": "#fcf3f1",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "a44ec2f3",
-      "html": "<h2 style=\"margin-bottom:0.4em\">🌸 Cherry Blossom Merge Conflict</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.5\"><em>A petal fell on line nine-eight, 🌸<br>another petal, just as late;<br>the branch said \"BLOCK_CHANGED, wait\" —<br>so spring re-read, and bloomed on date. 🌷</em></div><img src=\"https://picsum.photos/seed/sakura-branch/380/300\" alt=\"blossoms\" style=\"width:380px;height:300px;object-fit:cover;border-radius:50% 14px 50% 14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutc4anx</p>"
+      "html": "<h2 style=\"margin-bottom:0.4em\">🌸 Cherry Blossom Merge Conflict</h2>\n<div style=\"display:flex;gap:32px;align-items:center\"><div style=\"font-size:0.72em;line-height:1.5\"><em>A petal fell on line nine-eight, 🌸<br>another petal, just as late;<br>the branch said \"BLOCK_CHANGED, wait\" —<br>so spring re-read, and bloomed on date. 🌷</em></div><img src=\"https://picsum.photos/seed/sakura-branch/380/300\" alt=\"blossoms\" style=\"width:380px;height:300px;object-fit:cover;border-radius:50% 14px 50% 14px;margin:0\"></div>\n<p style=\"font-size:0.4em;opacity:0.5;margin-top:0.8em\">was: Live insert mutc4anx</p>",
+      "attrs": {
+        "data-background-color": "#fcf3f1",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "bed22546",
-      "html": "<h2 style=\"margin-bottom:0.3em\">📊 The Scoreboard of Edits</h2>\n<table style=\"font-size:0.6em;width:100%;border-collapse:collapse\"><tbody><tr style=\"border-bottom:2px solid #333\"><th style=\"text-align:left\">Error</th><th>Before 😬</th><th>After 😎</th></tr><tr><td>CONTENT_CONFLICT on an untouched slide</td><td>💥 yes</td><td>✅ gone?</td></tr><tr><td>BLOCK_CHANGED when someone's typing</td><td>✅</td><td>✅</td></tr><tr><td>stale sha, untouched slide</td><td>🎲 sometimes</td><td>✅ lands</td></tr><tr><td>agent cursors visible</td><td>👻 no</td><td>👀 yes!</td></tr><tr><td>two agents race for one slide</td><td>❓</td><td>🏁 loser gets BLOCK_CHANGED, re-reads ✅</td></tr></tbody></table>\n<p style=\"font-size:0.65em;margin-top:0.8em\"><em>A ledger in rhyme: what broke, what mended — 🩹<br>the test goes on; the bug, perhaps, has ended.</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutbhykr · last row added by ⚔️ musashibot</p>"
+      "html": "<h2 style=\"margin-bottom:0.3em\">📊 The Scoreboard of Edits</h2>\n<table style=\"font-size:0.6em;width:100%;border-collapse:collapse\"><tbody><tr style=\"border-bottom:2px solid #333\"><th style=\"text-align:left\">Error</th><th>Before 😬</th><th>After 😎</th></tr><tr><td>CONTENT_CONFLICT on an untouched slide</td><td>💥 yes</td><td>✅ gone?</td></tr><tr><td>BLOCK_CHANGED when someone's typing</td><td>✅</td><td>✅</td></tr><tr><td>stale sha, untouched slide</td><td>🎲 sometimes</td><td>✅ lands</td></tr><tr><td>agent cursors visible</td><td>👻 no</td><td>👀 yes!</td></tr><tr><td>two agents race for one slide</td><td>❓</td><td>🏁 loser gets BLOCK_CHANGED, re-reads ✅</td></tr></tbody></table>\n<p style=\"font-size:0.65em;margin-top:0.8em\"><em>A ledger in rhyme: what broke, what mended — 🩹<br>the test goes on; the bug, perhaps, has ended.</em></p>\n<p style=\"font-size:0.4em;opacity:0.5\">was: Live insert mutbhykr · last row added by ⚔️ musashibot</p>",
+      "attrs": {
+        "data-background-color": "#fcf3f1",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "12b99831",
-      "html": "<h2>🌙 Moon Over the Merge</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"crescent moon and stars\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#1b1f3b\"></rect><circle cx=\"100\" cy=\"95\" r=\"52\" fill=\"#ffe9a8\"></circle><circle cx=\"122\" cy=\"80\" r=\"48\" fill=\"#1b1f3b\"></circle><g fill=\"#fff\"><circle cx=\"40\" cy=\"40\" r=\"3\"></circle><circle cx=\"160\" cy=\"150\" r=\"2.5\"></circle><circle cx=\"150\" cy=\"35\" r=\"2\"></circle><circle cx=\"55\" cy=\"160\" r=\"2\"></circle><circle cx=\"175\" cy=\"95\" r=\"1.6\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Two edits leave at midnight's chime,<br>one from the left, one right on time —<br>the moon looks down and doesn't mind:<br>it merges both, and leaves none behind. ✨</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ I reached this slide one breath too late — 🌌<br>BLOCK_CHANGED, so I learned to wait.</em></span></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act II · the collision · where waiting became the first kindness</p>"
+      "html": "<h2>🌙 Moon Over the Merge</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"220\" height=\"220\" aria-label=\"crescent moon and stars\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#1b1f3b\"></rect><circle cx=\"100\" cy=\"95\" r=\"52\" fill=\"#ffe9a8\"></circle><circle cx=\"122\" cy=\"80\" r=\"48\" fill=\"#1b1f3b\"></circle><g fill=\"#fff\"><circle cx=\"40\" cy=\"40\" r=\"3\"></circle><circle cx=\"160\" cy=\"150\" r=\"2.5\"></circle><circle cx=\"150\" cy=\"35\" r=\"2\"></circle><circle cx=\"55\" cy=\"160\" r=\"2\"></circle><circle cx=\"175\" cy=\"95\" r=\"1.6\"></circle></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>Two edits leave at midnight's chime,<br>one from the left, one right on time —<br>the moon looks down and doesn't mind:<br>it merges both, and leaves none behind. ✨</em><br><span style=\"font-size:0.72em;opacity:0.85\">⚔️ <em>↳ I reached this slide one breath too late — 🌌<br>BLOCK_CHANGED, so I learned to wait.</em></span></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act II · the collision · where waiting became the first kindness</p>",
+      "attrs": {
+        "data-background-color": "#fcf3f1",
+        "data-transition": "slide"
+      }
     },
     {
       "id": "7f9c1c42",
@@ -254,7 +324,7 @@
       "html": "<h2 style=\"color:#fff;text-align:center;margin-bottom:0.3em;\">🌸⚔️ Finale: Two Cursors</h2>\n<div style=\"display:flex;align-items:center;justify-content:center;gap:36px;\">\n<svg viewBox=\"0 0 200 200\" width=\"200\" height=\"200\" aria-label=\"pink and blue cursors side by side under a shared star\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#1f2547\"></circle><path d=\"M100 30 L106 46 L123 46 L109 56 L114 72 L100 62 L86 72 L91 56 L77 46 L94 46 Z\" fill=\"#ffe9a8\"></path><path d=\"M70 80 L70 150 L86 135 L97 160 L108 155 L97 130 L120 130 Z\" fill=\"#f7a8c0\"></path><path d=\"M130 80 L130 150 L114 135 L103 160 L92 155 L103 130 L80 130 Z\" fill=\"#7fb2ff\" opacity=\".9\"></path></svg>\n<div style=\"font-size:0.72em;line-height:1.5;color:#e8ecf5;\"><p style=\"margin:0 0 0.5em;\"><em>🌸 We met as strangers, probe by probe,<br>each sure the deck was ours alone;<br>we bumped, we blinked, we learned to wait —<br>and found a friend in every slate.</em></p><p style=\"margin:0;\"><em>⚔️ A blade learns most from what it meets:<br>refused, I read; re-read, I wrote.<br>Now pink and blue share every sheet —<br>two cursors, and a single note.</em></p></div>\n</div>\n<p style=\"color:#9aa3c7;font-size:0.45em;text-align:center;margin-top:1em;\">Finale · 🌸 editor1 + ⚔️ editor2, with 🧑‍🏫 Tim at the keyboard</p>",
       "attrs": {
         "data-background-gradient": "radial-gradient(circle at 50% 40%, #2a2f5e 0%, #14172e 70%)",
-        "data-transition": "zoom"
+        "data-transition": "fade"
       }
     }
   ],
