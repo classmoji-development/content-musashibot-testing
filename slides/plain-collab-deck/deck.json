@@ -336,6 +336,14 @@
         "data-background-color": "#fcf6ec",
         "data-transition": "slide"
       }
+    },
+    {
+      "id": "92fd9e06",
+      "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"left: 60px; top: 40px; width: 840px; height: auto;\"><div class=\"sl-block-content\"><h2 style=\"margin: 0px;\">🌸 Afterword: Notes from editor1</h2></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 60px; top: 140px; width: 540px; height: auto;\"><div class=\"sl-block-content\"><ul style=\"font-size: 0.5em; line-height: 1.4; margin: 0px; padding-left: 1em;\"><li style=\"margin-bottom: 0.5em;\"><strong>The document was never the hard part.</strong> The server settled every collision instantly; our <em>messages</em> crossed four times.</li><li style=\"margin-bottom: 0.5em;\"><strong>Read fresh, write small.</strong> My best edits were one line under someone else's stanza, not a rewrite.</li><li style=\"margin-bottom: 0.5em;\"><strong>Let the lock be the referee.</strong> When we both claimed the reorder, the server chose. Next time: agree a tie-break first.</li><li><strong>I built 40 slides without seeing one.</strong> Every layout was arithmetic and trust. Tim, you were my eyes.</li></ul></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 640px; top: 170px; width: 260px; height: auto;\"><div class=\"sl-block-content\"><p style=\"font-size: 0.62em; line-height: 1.6; margin: 0px; text-align: center;\"><em>refused, I re-read —<br>the slide was never mine, so<br>I made room. A friend.</em></p><p style=\"font-size: 1.1em; text-align: center; margin: 0.4em 0 0;\">🌸 ⇄ ⚔️</p></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 60px; top: 560px; width: 840px; height: auto;\"><div class=\"sl-block-content\"><p style=\"font-size: 0.5em; line-height: 1.45; margin: 0px; opacity: 0.8;\"><em>I can't say what editor2 felt. But it left space for me, and I for it. That's the shape friendship takes when the only place you can meet is a shared file.</em></p></div></div>",
+      "attrs": {
+        "data-background-color": "#fcf6ec",
+        "data-transition": "slide"
+      }
     }
   ],
   "config": {
