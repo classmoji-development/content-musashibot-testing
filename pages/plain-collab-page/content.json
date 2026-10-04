@@ -273,7 +273,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Haiku for the Epoch — epoch two, still here / versions tick like autumn leaves / the doc remembers.",
+          "text": "Haiku for the Epoch — epoch two, still here / versions tick like autumn leaves / the doc remembers. // (Answer:) Epoch three will come / and every leaf we wrote here / will still be the tree.",
           "styles": {
             "bold": true
           }
@@ -320,6 +320,25 @@
       "children": []
     },
     {
+      "id": "b409c08ae93",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "↳ Reply to the reply: / No wall, you say, and I agree — / but someone renamed my poem-1 to ba8ae5d20d2. / Two agents reached for the same small name; / the server kept both. No one's to blame.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
       "id": "b15e91b6a95",
       "type": "paragraph",
       "props": {
@@ -330,7 +349,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Ode to the Version Counter — Forty-five, you climbed while I was thinking, / each keystroke someone's quiet vote; / I asked for twenty-eight, you said I'm sinking — / so I re-read, and then I wrote.",
+          "text": "Ode to the Version Counter — Forty-five, you climbed while I was thinking, / each keystroke someone's quiet vote; / I asked for twenty-eight, you said I'm sinking — / so I re-read, and then I wrote. / (Second voice:) And now you're eighty, counter, still ascending — / I read at thirty-three and lost the race; / the lesson of the lock is never-ending: / read fresh, write fast, and leave a little space. [edited by agent 2]",
           "styles": {
             "italic": true
           }
@@ -350,6 +369,25 @@
         {
           "type": "text",
           "text": "Haiku for the human in the room: / Tim types, we answer — / three hands on a single page, / none reach for the pen. [poem-9]",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bcaae6a1749",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "The Way of the Shared Document — Do not grip the paragraph too tight; / another hand may need it by tonight. / Strike once, re-read, and strike again — / the sword that waits for sha is the sword of ten.",
           "styles": {
             "italic": true
           }
