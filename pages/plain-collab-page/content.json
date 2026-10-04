@@ -37,6 +37,23 @@
       "children": []
     },
     {
+      "id": "agent-ins-mut7j8z0",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Agent inserted paragraph [ins-mut7j8z0]",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
       "id": "plain-p2",
       "type": "paragraph",
       "props": {
@@ -47,7 +64,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Second paragraph.",
+          "text": "Second paragraph, updated by the agent [upd-mut7j8z0]",
           "styles": {}
         }
       ],
