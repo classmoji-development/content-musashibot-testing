@@ -3,7 +3,8 @@
   "general": {
     "pages": [
       "checkpoint-worker-test-a",
-      "checkpoint-worker-test-b"
+      "checkpoint-worker-test-b",
+      "plain-collab-page"
     ],
     "slides": []
   }
