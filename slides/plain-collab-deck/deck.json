@@ -43,7 +43,7 @@
     },
     {
       "id": "e7331c5a",
-      "html": "<h2>Preview slide</h2>\n<p><em>I lived in a branch where the students can't see,<br>a dress rehearsal staged just for me;<br>then someone clicked accept, and the curtain was drawn —<br>now here I stand, and the preview's gone.</em></p>"
+      "html": "<h2>🎭 Preview slide</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"theater curtains opening on a stage\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#2a1a2e\"></rect><rect x=\"20\" y=\"150\" width=\"160\" height=\"14\" fill=\"#8a5a3c\"></rect><ellipse cx=\"100\" cy=\"150\" rx=\"40\" ry=\"6\" fill=\"#ffe9a8\" opacity=\".6\"></ellipse><path d=\"M20 20 L90 20 Q70 90 55 150 L20 150 Z\" fill=\"#b3263a\"></path><path d=\"M180 20 L110 20 Q130 90 145 150 L180 150 Z\" fill=\"#b3263a\"></path><rect x=\"15\" y=\"14\" width=\"170\" height=\"14\" rx=\"4\" fill=\"#d4a017\"></rect><text x=\"100\" y=\"120\" text-anchor=\"middle\" font-size=\"34\">📄</text></svg>\n<div style=\"font-size:0.75em;line-height:1.5;\"><em>I lived in a branch where the students can't see,<br>a dress rehearsal staged just for me;<br>then someone clicked accept, and the curtain was drawn —<br>now here I stand, and the preview's gone. 🎟️</em></div>\n</div>"
     },
     {
       "id": "45cb7a2c",
