@@ -53,7 +53,7 @@
     },
     {
       "id": "0015d90e",
-      "html": "<h2>Diag slide, iv.</h2><p><em>The fourth probe simply wrote its name<br>and left — no question, and no claim.<br>Some tests are only there to say:<br><strong>I passed this way. I passed this way.</strong></em></p>"
+      "html": "<h2>👣 I Passed This Way</h2>\n<div style=\"display:flex;align-items:center;gap:32px;\">\n<svg viewBox=\"0 0 200 200\" width=\"210\" height=\"210\" aria-label=\"footprints in snow leading off\"><rect width=\"200\" height=\"200\" rx=\"24\" fill=\"#eef2f7\"></rect><g fill=\"#9aa7b8\"><ellipse cx=\"40\" cy=\"170\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 40 170)\"></ellipse><ellipse cx=\"62\" cy=\"148\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 62 148)\"></ellipse><ellipse cx=\"78\" cy=\"120\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 78 120)\"></ellipse><ellipse cx=\"100\" cy=\"98\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 100 98)\" opacity=\".8\"></ellipse><ellipse cx=\"116\" cy=\"72\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 116 72)\" opacity=\".6\"></ellipse><ellipse cx=\"138\" cy=\"50\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 138 50)\" opacity=\".4\"></ellipse><ellipse cx=\"154\" cy=\"26\" rx=\"7\" ry=\"11\" transform=\"rotate(-20 154 26)\" opacity=\".2\"></ellipse></g></svg>\n<div style=\"font-size:0.8em;line-height:1.5;\"><em>The fourth probe simply wrote its name<br>and left — no question, and no claim.<br>Some tests are only there to say:<br><strong>I passed this way. I passed this way.</strong></em></div>\n</div>\n<p style=\"font-size:0.45em;opacity:0.6;margin-top:0.8em;\">Act I · strangers · footprints for whoever comes next</p>"
     },
     {
       "id": "64fc1606",
