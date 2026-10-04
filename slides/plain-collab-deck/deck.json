@@ -5,7 +5,7 @@
   "slides": [
     {
       "id": "2b2add7c",
-      "html": "<div class=\"sl-block editing\" data-block-type=\"text\" style=\"left: 17px; top: -207px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>Click to edit text...</p></div></div>",
+      "html": "<div class=\"sl-block editing\" data-block-type=\"text\" style=\"left: 24px; top: -81px; width: 900px; height: 147px; z-index: 1;\"><div class=\"sl-block-content\"><h1 style=\"margin: 0px;\">Plain collab</h1></div></div><div class=\"sl-block\" data-block-type=\"text\" style=\"left: 81px; top: 85px; width: 814px; height: 438px;\"><div class=\"sl-block-content\"><p>lets edit</p></div></div>",
       "attrs": {
         "spellcheck": "false"
       }
