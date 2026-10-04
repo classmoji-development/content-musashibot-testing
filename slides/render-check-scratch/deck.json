@@ -37,7 +37,7 @@
     },
     {
       "id": "40389fe4",
-      "html": "<h2>Stretch</h2><img class=\"r-stretch\" src=\"https://cdn.jsdelivr.net/gh/hakimel/reveal.js@5.1.0/test/assets/image1.png\"><p>Caption under a stretched image</p>"
+      "html": "<h2>Stretch</h2><img class=\"r-stretch\" src=\"https://picsum.photos/id/1015/640/360\"><p>Caption under a stretched image</p>"
     },
     {
       "id": "e9d67f60",
