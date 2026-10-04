@@ -64,7 +64,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Second paragraph rewritten in preview [pv-upd-mut7lool] sv-mut7ps41 restart-mut7rfk9-abcdefghijklmnopqrstuvwxyz0123456789",
+          "text": "Second paragraph via preview [rpv-upd-muta7jjq]",
           "styles": {}
         }
       ],
@@ -81,7 +81,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Third paragraph. human-mut7j8z0 typing-during-accept-mut7lool inflight-mut7obdx-abcdefghijklmnopqrstuvwxyz ux-mut7snir",
+          "text": "Third paragraph. human-mut7j8z0 typing-during-accept-mut7lool inflight-mut7obdx-abcdefghijklmnopqrstuvwxyz ux-mut7snir rtyping-muta7jjq-abcdefghijklmnop",
           "styles": {}
         }
       ],
@@ -99,6 +99,23 @@
         {
           "type": "text",
           "text": "Preview-only new paragraph [pv-ins-mut7lool] [gh-web-1791081985]",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b7a5fb932d0",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "New paragraph via preview [rpv-ins-muta7jjq]",
           "styles": {}
         }
       ],
