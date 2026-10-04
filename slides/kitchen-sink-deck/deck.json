@@ -17,12 +17,12 @@
     },
     {
       "id": "0d200f83",
-      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a-muta10zw]</p>",
+      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a-mutbflww]muta10zw]</p>",
       "notes": "Notes for slide A."
     },
     {
       "id": "ef36cb65",
-      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]</p>"
+      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw] [b-mutbflww]</p>"
     },
     {
       "id": "690e650b",
