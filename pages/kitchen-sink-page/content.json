@@ -1061,6 +1061,40 @@
         }
       ],
       "children": []
+    },
+    {
+      "id": "agent-a-muuqaj9x",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Written by agent A muuqaj9x",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "agent-b-muuqaj9x",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Written by agent B muuqaj9x",
+          "styles": {}
+        }
+      ],
+      "children": []
     }
   ],
   "coverImage": {
