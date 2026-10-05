@@ -1027,40 +1027,6 @@
       },
       "content": [],
       "children": []
-    },
-    {
-      "id": "m-a-muujpf2p",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "agent edit via B [muujpf2p] + person",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "m-b-muujpf2p",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "person types here — typing elsewhere",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ],
   "coverImage": {
