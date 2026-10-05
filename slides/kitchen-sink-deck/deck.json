@@ -18,7 +18,7 @@
     },
     {
       "id": "0d200f83",
-      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a- [B1-jwqr2] [B2-jwqr2] [B3- [A1-jwqr2]jwqr2]mutccs0p]mutbiain]mutbflww]muta10zw [A2-jwqr2]] [B1-jyc73] [B2-jyc73] [B3-jyc73] [A1-jyc73] [A2-jyc73] [P-k5was]</p>",
+      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a- [B1-jwqr2] [B2-jwqr2] [B3- [A1-jwqr2]jwqr2]mutccs0p]mutbiain]mutbflww]muta10zw [A2-jwqr2]] [B1-jyc73] [B2-jyc73] [B3-jyc73] [A1-jyc73] [A2-jyc73] [P-k5was] [UA-ka5qs]</p>",
       "notes": "Notes for slide A.",
       "attrs": {
         "style": "caret-color: transparent !important;"
@@ -26,7 +26,7 @@
     },
     {
       "id": "ef36cb65",
-      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww] [on-k0xkc] [on-k5227] [off-k5227] [U1-ka5qs]</p>",
+      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww] [on-k0xkc] [on-k5227] [off-k5227] [U1-ka5qs] [U2-ka5qs] [U3-ka5qs]</p>",
       "attrs": {
         "style": "caret-color: transparent !important;"
       }
