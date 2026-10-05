@@ -1027,23 +1027,6 @@
       },
       "content": [],
       "children": []
-    },
-    {
-      "id": "undo-muulqno7",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Undo target muulqno7 mine-muulqno7 theirs-muulqno7",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ],
   "coverImage": {
