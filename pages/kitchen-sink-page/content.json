@@ -1061,23 +1061,6 @@
         }
       ],
       "children": []
-    },
-    {
-      "id": "colp-b-seq-muuqykxr",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Column B seq muuqykxr ok-muuqykxr",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ],
   "coverImage": {
