@@ -1029,7 +1029,7 @@
       "children": []
     },
     {
-      "id": "m-a-muujm5hy",
+      "id": "m-a-muujpf2p",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
@@ -1039,14 +1039,14 @@
       "content": [
         {
           "type": "text",
-          "text": "agent target",
+          "text": "agent edit via B [muujpf2p] + person",
           "styles": {}
         }
       ],
       "children": []
     },
     {
-      "id": "m-b-muujm5hy",
+      "id": "m-b-muujpf2p",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
@@ -1056,7 +1056,7 @@
       "content": [
         {
           "type": "text",
-          "text": "person types here",
+          "text": "person types here — typing elsewhere",
           "styles": {}
         }
       ],
