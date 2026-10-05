@@ -1112,6 +1112,40 @@
           ]
         }
       ]
+    },
+    {
+      "id": "m-a-muuke1ns",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "agent target",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "m-b-muuke1ns",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "person types here",
+          "styles": {}
+        }
+      ],
+      "children": []
     }
   ],
   "coverImage": {
