@@ -18,7 +18,7 @@
     },
     {
       "id": "0d200f83",
-      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a- [B1-jwqr2] [B2-jwqr2] [B3- [A1-jwqr2]jwqr2]mutccs0p]mutbiain]mutbflww]muta10zw [A2-jwqr2]] [B1-jyc73] [B2-jyc73] [B3-jyc73] [A1-jyc73] [A2-jyc73] [P-k5was] [UA-ka5qs] [B1-l0idc] [B2-l0idc] [B3-l0idc] [A1-l0idc] [P-l5n40] [P-l9av0] [P-lbovy]</p>",
+      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a- [B1-jwqr2] [B2-jwqr2] [B3- [A1-jwqr2]jwqr2]mutccs0p]mutbiain]mutbflww]muta10zw [A2-jwqr2]] [B1-jyc73] [B2-jyc73] [B3-jyc73] [A1-jyc73] [A2-jyc73] [P-k5was] [UA-ka5qs] [B1-l0idc] [B2-l0idc] [B3-l0idc] [A1-l0idc] [P-l5n40] [P-l9av0] [P-lbovy] [UA-lcfmv] [UB-lcfmv]</p>",
       "notes": "Notes for slide A.",
       "attrs": {
         "style": "caret-color: transparent !important;"
@@ -26,7 +26,7 @@
     },
     {
       "id": "ef36cb65",
-      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww] [on-k0xkc] [on-k5227] [off-k5227] [U1-ka5qs] [U2-ka5qs] [U3-ka5qs] [off-l0idc] [U1-l0idc] [U2-l0idc]</p>",
+      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww] [on-k0xkc] [on-k5227] [off-k5227] [U1-ka5qs] [U2-ka5qs] [U3-ka5qs] [off-l0idc] [U1-l0idc] [U2-l0idc] [U1-lcfmv] [U2-lcfmv]</p>",
       "attrs": {
         "style": "caret-color: transparent !important;"
       }
@@ -171,10 +171,6 @@
         "style": "caret-color: transparent !important;"
       },
       "notes": "W verify save version"
-    },
-    {
-      "id": "800e7e9e",
-      "html": "<h2>Blocks editor muul6qhk</h2><div class=\"sl-block\" data-block-type=\"svg\" data-cm-block-id=\"svg-muul6qhk\" style=\"left: 626px; top: 271px; width: 330px; height: 295px;\"><div class=\"sl-block-content\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\"><rect x=\"5\" y=\"5\" width=\"90\" height=\"90\" fill=\"#00aa55\"></rect></svg></div></div><div class=\"sl-block\" data-block-type=\"html\" data-cm-block-id=\"html-muul6qhk\" style=\"left: 60px; top: 160px; width: 380px; height: 240px;\"><div class=\"sl-block-content\"><iframe sandbox=\"allow-scripts allow-pointer-lock allow-modals allow-popups\" allow=\"fullscreen\" style=\"width: 100%; height: 100%; border: 0px;\" srcdoc=\"&lt;!DOCTYPE html&gt;&lt;script data-cm-storage-shim&gt;(function(){function m(){var d=new Map();return{get length(){return d.size},key:function(i){var k=Array.from(d.keys());return i&gt;=0&amp;&amp;i&lt;k.length?k[i]:null},getItem:function(k){k=String(k);return d.has(k)?d.get(k):null},setItem:function(k,v){d.set(String(k),String(v))},removeItem:function(k){d.delete(String(k))},clear:function(){d.clear()}}}['localStorage','sessionStorage'].forEach(function(n){try{if(window[n])return}catch(e){}try{Object.defineProperty(window,n,{value:m(),configurable:true,enumerable:true})}catch(e){}})})();&lt;/script&gt;&lt;html&gt;&lt;body&gt;&lt;p&gt;Applied muul6qhk&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;\"></iframe></div></div>"
     }
   ]
 }
