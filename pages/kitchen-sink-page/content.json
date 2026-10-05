@@ -1029,19 +1029,36 @@
       "children": []
     },
     {
-      "id": "cols-seq-muulkppa",
+      "id": "colp-b-seq-muulkppa",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Column B seq muulkppa ok-muulkppa",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cols-par-muulkppa",
       "type": "columnList",
       "props": {},
       "children": [
         {
-          "id": "col-a-seq-muulkppa",
+          "id": "col-a-par-muulkppa",
           "type": "column",
           "props": {
             "width": 1
           },
           "children": [
             {
-              "id": "colp-a-seq-muulkppa",
+              "id": "colp-a-par-muulkppa",
               "type": "paragraph",
               "props": {
                 "backgroundColor": "default",
@@ -1051,7 +1068,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Column A seq muulkppa",
+                  "text": "Column A par muulkppa",
                   "styles": {}
                 }
               ],
@@ -1060,14 +1077,14 @@
           ]
         },
         {
-          "id": "col-b-seq-muulkppa",
+          "id": "col-b-par-muulkppa",
           "type": "column",
           "props": {
             "width": 1
           },
           "children": [
             {
-              "id": "colp-b-seq-muulkppa",
+              "id": "colp-b-par-muulkppa",
               "type": "paragraph",
               "props": {
                 "backgroundColor": "default",
@@ -1077,7 +1094,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Column B seq muulkppa",
+                  "text": "Column B par muulkppa",
                   "styles": {}
                 }
               ],
@@ -1086,14 +1103,14 @@
           ]
         },
         {
-          "id": "col-c-seq-muulkppa",
+          "id": "col-c-par-muulkppa",
           "type": "column",
           "props": {
             "width": 1
           },
           "children": [
             {
-              "id": "colp-c-seq-muulkppa",
+              "id": "colp-c-par-muulkppa",
               "type": "paragraph",
               "props": {
                 "backgroundColor": "default",
@@ -1103,7 +1120,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Column C seq muulkppa",
+                  "text": "Column C par muulkppa",
                   "styles": {}
                 }
               ],
