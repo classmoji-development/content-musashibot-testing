@@ -18,7 +18,7 @@
     },
     {
       "id": "0d200f83",
-      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a-mutccs0p]mutbiain]mutbflww]muta10zw]</p>",
+      "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a- [B1-jwqr2] [B2-jwqr2] [B3- [A1-jwqr2]jwqr2]mutccs0p]mutbiain]mutbflww]muta10zw [A2-jwqr2]]</p>",
       "notes": "Notes for slide A.",
       "attrs": {
         "style": "caret-color: transparent !important;"
@@ -170,10 +170,6 @@
       "attrs": {
         "style": "caret-color: transparent !important;"
       }
-    },
-    {
-      "id": "ee606cd1",
-      "html": "<h2>S2 verify muujw013</h2><div class=\"sl-block\" data-block-type=\"svg\" data-cm-block-id=\"4dd73f69\" style=\"left: 60px; top: 160px; width: 300px; height: 300px;\"><div class=\"sl-block-content\" style=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\"><style>@scope {\n.st0{fill:#e6332a}\n}</style><defs></defs><rect class=\"st0\" width=\"100\" height=\"100\"></rect></svg></div></div><div class=\"sl-block\" data-block-type=\"svg\" data-cm-block-id=\"e810ad5b\" style=\"left: 420px; top: 160px; width: 300px; height: 300px;\"><div class=\"sl-block-content\" style=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\"><style>@scope {\n.st0{fill:#1d4ed8}\n}</style><defs></defs><rect class=\"st0\" width=\"100\" height=\"100\"></rect></svg></div></div><div class=\"sl-block\" data-block-type=\"html\" data-cm-block-id=\"ca8f10a3\" style=\"left: 760px; top: 160px; width: 180px; height: 180px;\"><div class=\"sl-block-content\" style=\"\"><iframe sandbox=\"allow-scripts allow-pointer-lock allow-modals allow-popups\" allow=\"fullscreen\" style=\"width: 100%; height: 100%; border: 0px;\" srcdoc=\"&lt;script data-cm-storage-shim&gt;(function(){function m(){var d=new Map();return{get length(){return d.size},key:function(i){var k=Array.from(d.keys());return i&gt;=0&amp;&amp;i&lt;k.length?k[i]:null},getItem:function(k){k=String(k);return d.has(k)?d.get(k):null},setItem:function(k,v){d.set(String(k),String(v))},removeItem:function(k){d.delete(String(k))},clear:function(){d.clear()}}}['localStorage','sessionStorage'].forEach(function(n){try{if(window[n])return}catch(e){}try{Object.defineProperty(window,n,{value:m(),configurable:true,enumerable:true})}catch(e){}})})();&lt;/script&gt;&lt;p&gt;hi&lt;/p&gt;\"></iframe></div></div>"
     }
   ]
 }
