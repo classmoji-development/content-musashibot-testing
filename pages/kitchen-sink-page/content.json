@@ -1027,6 +1027,23 @@
       },
       "content": [],
       "children": []
+    },
+    {
+      "id": "probe-undo-muun25fo",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Probe base",
+          "styles": {}
+        }
+      ],
+      "children": []
     }
   ],
   "coverImage": {
