@@ -1027,40 +1027,6 @@
       },
       "content": [],
       "children": []
-    },
-    {
-      "id": "agent-a-muuoizti",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Written by agent A muuoizti",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "agent-b-muuoizti",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Written by agent B muuoizti",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ],
   "coverImage": {
