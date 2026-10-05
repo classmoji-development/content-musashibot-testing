@@ -12,45 +12,63 @@
       "html": "<h1>Kitchen sink deck</h1><p class=\"fragment\" data-fragment-index=\"0\">Fragment one</p><p class=\"fragment fade-up\" data-fragment-index=\"1\">Fragment two</p>",
       "notes": "Opening notes with <b>markup</b>.",
       "attrs": {
-        "data-transition": "zoom"
+        "data-transition": "zoom",
+        "style": "caret-color: transparent !important;"
       }
     },
     {
       "id": "0d200f83",
       "html": "<h2>Editable slide A</h2><p>Editable slide A: the first editor takes this one. [a-mut6yojl]&nbsp; x x[a-mut7c4y4] [a-mut83ohg] [a- [a- [a- [a-mutccs0p]mutbiain]mutbflww]muta10zw]</p>",
-      "notes": "Notes for slide A."
+      "notes": "Notes for slide A.",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "ef36cb65",
-      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww]</p>"
+      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww]</p>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "690e650b",
       "html": "<h2>Code</h2><pre><code class=\"language-js\" data-line-numbers=\"\">const a = 1 &lt; 2;\nconsole.log(a);</code></pre>",
       "attrs": {
-        "data-background-color": "#112233"
+        "data-background-color": "#112233",
+        "style": "caret-color: transparent !important;"
       }
     },
     {
       "id": "22e4b32b",
       "html": "<h2>Python</h2><pre><code class=\"language-python\">def greet(name):\n    return f\"Hello, {name}!\"</code></pre>",
-      "notes": "Explain f-strings."
+      "notes": "Explain f-strings.",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "8ea68c45",
       "html": "<h2>Hidden slide</h2><p>Only editors see this.</p>",
-      "hidden": true
+      "hidden": true,
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "b4d93425",
-      "html": "<h2>Image</h2><img src=\"https://picsum.photos/id/1015/640/360\" alt=\"A river valley\" width=\"640\" height=\"360\">"
+      "html": "<h2>Image</h2><img src=\"https://picsum.photos/id/1015/640/360\" alt=\"A river valley\" width=\"640\" height=\"360\">",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "c62cecf3",
       "html": "<h2 style=\"color: white;\">Background image</h2>",
       "attrs": {
         "data-background-image": "https://picsum.photos/id/1018/1600/900",
-        "data-background-size": "cover"
+        "data-background-size": "cover",
+        "style": "caret-color: transparent !important;"
       }
     },
     {
@@ -58,69 +76,100 @@
       "html": "<h2>Background iframe</h2>",
       "attrs": {
         "data-background-iframe": "https://example.com",
-        "data-background-interactive": ""
+        "data-background-interactive": "",
+        "style": "caret-color: transparent !important;"
       }
     },
     {
       "id": "8694d782",
-      "html": "<h2>Lazy iframe</h2><iframe data-src=\"https://example.com\" width=\"800\" height=\"400\"></iframe>"
+      "html": "<h2>Lazy iframe</h2><iframe data-src=\"https://example.com\" width=\"800\" height=\"400\"></iframe>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "6506aefc",
-      "html": "<h2>srcdoc iframe</h2><iframe srcdoc=\"<p style=&quot;font-family: sans-serif&quot;>Hello &amp;amp; welcome from srcdoc</p>\" width=\"600\" height=\"200\"></iframe>"
+      "html": "<h2>srcdoc iframe</h2><iframe srcdoc=\"<p style=&quot;font-family: sans-serif&quot;>Hello &amp;amp; welcome from srcdoc</p>\" width=\"600\" height=\"200\"></iframe>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "a83ea45a",
-      "html": "<h2>Sandpack</h2><div class=\"sl-block\" data-block-type=\"sandpack\" style=\"width: 900px; height: 460px; left: 30px; top: 120px;\"><div class=\"sl-block-content\"><div class=\"sandpack-embed\" data-template=\"react\" data-visible-files=\"[&quot;/App.js&quot;,&quot;/styles.css&quot;]\" data-show-line-numbers=\"true\" data-theme=\"auto\" style=\"\"><script type=\"application/json\" data-sandpack-files=\"\">{\"/App.js\":{\"code\":\"import { capitalize } from 'lodash';\\n\\nexport default function App() {\\n  return <h1>{capitalize('hello from sandpack')}</h1>;\\n}\\n\",\"active\":true},\"/styles.css\":{\"code\":\"body { font-family: sans-serif; }\\n\"},\"/package.json\":{\"code\":\"{\\\"dependencies\\\":{\\\"lodash\\\":\\\"4.17.21\\\"}}\",\"hidden\":true}}</script></div></div></div>"
+      "html": "<h2>Sandpack</h2><div class=\"sl-block\" data-block-type=\"sandpack\" style=\"width: 900px; height: 460px; left: 30px; top: 120px;\"><div class=\"sl-block-content\"><div class=\"sandpack-embed\" data-template=\"react\" data-visible-files=\"[&quot;/App.js&quot;,&quot;/styles.css&quot;]\" data-show-line-numbers=\"true\" data-theme=\"auto\" style=\"\"><script type=\"application/json\" data-sandpack-files=\"\">{\"/App.js\":{\"code\":\"import { capitalize } from 'lodash';\\n\\nexport default function App() {\\n  return <h1>{capitalize('hello from sandpack')}</h1>;\\n}\\n\",\"active\":true},\"/styles.css\":{\"code\":\"body { font-family: sans-serif; }\\n\"},\"/package.json\":{\"code\":\"{\\\"dependencies\\\":{\\\"lodash\\\":\\\"4.17.21\\\"}}\",\"hidden\":true}}</script></div></div></div>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "ee21b780",
       "notes": "Stack-level note.",
       "attrs": {
-        "data-background-color": "rgb(10, 20, 30)"
+        "data-background-color": "rgb(10, 20, 30)",
+        "style": "caret-color: transparent !important;"
       },
       "children": [
         {
           "id": "0bc817c5",
           "html": "<h2>Stack top</h2>",
           "attrs": {
-            "data-auto-animate": ""
+            "data-auto-animate": "",
+            "style": "caret-color: transparent !important;"
           }
         },
         {
           "id": "09aff981",
           "html": "<h2>Stack middle</h2>",
-          "notes": "Child slide note."
+          "notes": "Child slide note.",
+          "attrs": {
+            "style": "caret-color: transparent !important;"
+          }
         },
         {
           "id": "f095acf1",
           "html": "<h2>Stack hidden child</h2>",
-          "hidden": true
+          "hidden": true,
+          "attrs": {
+            "style": "caret-color: transparent !important;"
+          }
         }
       ]
     },
     {
       "id": "a34f0b7c",
-      "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"width: 600px; left: 80px; top: 120px; height: auto;\"><div class=\"sl-block-content\" data-animation-type=\"fade-in\"><h2>Absolute layout</h2><p>slides.com-style blocks</p></div></div><div class=\"sl-block\" data-block-type=\"image\" style=\"width: 300px; height: 200px; left: 560px; top: 320px;\"><div class=\"sl-block-content\"><img src=\"https://picsum.photos/id/1025/300/200\" alt=\"A dog\"></div></div>"
+      "html": "<div class=\"sl-block\" data-block-type=\"text\" style=\"width: 600px; left: 80px; top: 120px; height: auto;\"><div class=\"sl-block-content\" data-animation-type=\"fade-in\"><h2>Absolute layout</h2><p>slides.com-style blocks</p></div></div><div class=\"sl-block\" data-block-type=\"image\" style=\"width: 300px; height: 200px; left: 560px; top: 320px;\"><div class=\"sl-block-content\"><img src=\"https://picsum.photos/id/1025/300/200\" alt=\"A dog\"></div></div>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "8e3a3dbf",
       "html": "<h2>Fragments</h2><ul><li class=\"fragment\">First</li><li class=\"fragment\">Second</li><li class=\"fragment highlight-red\">Third</li></ul>",
       "attrs": {
-        "data-caption": "He said \"hi\" & left"
+        "data-caption": "He said \"hi\" & left",
+        "style": "caret-color: transparent !important;"
       }
     },
     {
       "id": "77dfba6c",
-      "html": "<h2>Video</h2><video controls=\"\" width=\"640\" src=\"https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4\"></video>"
+      "html": "<h2>Video</h2><video controls=\"\" width=\"640\" src=\"https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4\"></video>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "1563699e",
-      "html": "<h2>Questions?</h2>"
+      "html": "<h2>Questions?</h2>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     },
     {
       "id": "eb214f78",
-      "html": "<h2>S2 verify muujrmrb</h2><div class=\"sl-block\" data-block-type=\"svg\" data-cm-block-id=\"4ccf90a3\" style=\"left: 60px; top: 160px; width: 300px; height: 300px;\"><div class=\"sl-block-content\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\"><defs><style>.st0{fill:#e6332a}</style></defs><rect class=\"st0\" width=\"100\" height=\"100\"></rect></svg></div></div><div class=\"sl-block\" data-block-type=\"svg\" data-cm-block-id=\"543e1b65\" style=\"left: 420px; top: 160px; width: 300px; height: 300px;\"><div class=\"sl-block-content\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\"><defs><style>.st0{fill:#1d4ed8}</style></defs><rect class=\"st0\" width=\"100\" height=\"100\"></rect></svg></div></div><div class=\"sl-block\" data-block-type=\"html\" data-cm-block-id=\"140beb27\" style=\"left: 760px; top: 160px; width: 180px; height: 180px;\"><div class=\"sl-block-content\"><iframe sandbox=\"allow-scripts allow-pointer-lock allow-modals allow-popups\" allow=\"fullscreen\" style=\"width: 100%; height: 100%; border: 0px;\" srcdoc=\"&lt;script data-cm-storage-shim&gt;(function(){function m(){var d=new Map();return{get length(){return d.size},key:function(i){var k=Array.from(d.keys());return i&gt;=0&amp;&amp;i&lt;k.length?k[i]:null},getItem:function(k){k=String(k);return d.has(k)?d.get(k):null},setItem:function(k,v){d.set(String(k),String(v))},removeItem:function(k){d.delete(String(k))},clear:function(){d.clear()}}}['localStorage','sessionStorage'].forEach(function(n){try{if(window[n])return}catch(e){}try{Object.defineProperty(window,n,{value:m(),configurable:true,enumerable:true})}catch(e){}})})();&lt;/script&gt;&lt;p&gt;hi&lt;/p&gt;\"></iframe></div></div>"
+      "html": "<h2>S2 verify muujrmrb</h2><div class=\"sl-block\" data-block-type=\"svg\" data-cm-block-id=\"4ccf90a3\" style=\"left: 60px; top: 160px; width: 300px; height: 300px;\"><div class=\"sl-block-content\" style=\"caret-color: transparent !important;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\"><style>@scope {\n.st0{fill:#e6332a}\n}</style><defs></defs><rect class=\"st0\" width=\"100\" height=\"100\"></rect></svg></div></div><div class=\"sl-block\" data-block-type=\"svg\" data-cm-block-id=\"543e1b65\" style=\"left: 420px; top: 160px; width: 300px; height: 300px;\"><div class=\"sl-block-content\" style=\"caret-color: transparent !important;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\"><style>@scope {\n.st0{fill:#1d4ed8}\n}</style><defs></defs><rect class=\"st0\" width=\"100\" height=\"100\"></rect></svg></div></div><div class=\"sl-block\" data-block-type=\"html\" data-cm-block-id=\"140beb27\" style=\"left: 760px; top: 160px; width: 180px; height: 180px;\"><div class=\"sl-block-content\" style=\"caret-color: transparent !important;\"><iframe sandbox=\"allow-scripts allow-pointer-lock allow-modals allow-popups\" allow=\"fullscreen\" style=\"width: 100%; height: 100%; border: 0px;\" srcdoc=\"&lt;script data-cm-storage-shim&gt;(function(){function m(){var d=new Map();return{get length(){return d.size},key:function(i){var k=Array.from(d.keys());return i&gt;=0&amp;&amp;i&lt;k.length?k[i]:null},getItem:function(k){k=String(k);return d.has(k)?d.get(k):null},setItem:function(k,v){d.set(String(k),String(v))},removeItem:function(k){d.delete(String(k))},clear:function(){d.clear()}}}['localStorage','sessionStorage'].forEach(function(n){try{if(window[n])return}catch(e){}try{Object.defineProperty(window,n,{value:m(),configurable:true,enumerable:true})}catch(e){}})})();&lt;/script&gt;&lt;p&gt;hi&lt;/p&gt;\"></iframe></div></div>",
+      "attrs": {
+        "style": "caret-color: transparent !important;"
+      }
     }
   ]
 }
