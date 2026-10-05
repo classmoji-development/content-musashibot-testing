@@ -1027,6 +1027,91 @@
       },
       "content": [],
       "children": []
+    },
+    {
+      "id": "cols-seq-muum1k7k",
+      "type": "columnList",
+      "props": {},
+      "children": [
+        {
+          "id": "col-a-seq-muum1k7k",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "colp-a-seq-muum1k7k",
+              "type": "paragraph",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Column A seq muum1k7k",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "col-b-seq-muum1k7k",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "colp-b-seq-muum1k7k",
+              "type": "paragraph",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Column B seq muum1k7k",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "col-c-seq-muum1k7k",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "colp-c-seq-muum1k7k",
+              "type": "paragraph",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Column C seq muum1k7k",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "coverImage": {
