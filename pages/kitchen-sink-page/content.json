@@ -1044,6 +1044,40 @@
         }
       ],
       "children": []
+    },
+    {
+      "id": "loop-end-muuq50rt",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Shared paragraph: two people type here.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "loop-end-muuq6xu5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Shared paragraph: two people type here.",
+          "styles": {}
+        }
+      ],
+      "children": []
     }
   ],
   "coverImage": {
