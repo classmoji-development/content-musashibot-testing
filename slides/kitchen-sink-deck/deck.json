@@ -26,7 +26,7 @@
     },
     {
       "id": "ef36cb65",
-      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww] [on-k0xkc] [on-k5227] [off-k5227] [U&nbsp; 1-ka5qs] [U2-ka5qs] [U3-ka5qs] [off-l0idc] [U1-l0idc] [U2-l0idc] [U1-lcfmv] [U2-lcfmv] v0-lf88r v1-lf88r v2-lf88r v3-lf88r v4-lf88r v5-lf88r [U1-mcbd9] [U2-mcbd9]</p>",
+      "html": "<h2>Editable slide B</h2><p>Editable slide B: the second editor works here. [b-mut6yojl] [b-mut7c4y4] [b-mut83ohg] [b-muta10zw]&nbsp; &nbsp;[b-mutccs0p][b-mutbiain][b-mutbflww] [on-k0xkc] [on-k5227] [off-k5227] [U&nbsp; &nbsp;1-ka5qs] [U2-ka5qs] [U3-ka5qs] [off-l0idc] [U1-l0idc] [U2-l0idc] [U1-lcfmv] [U2-lcfmv] v0-lf88r v1-lf88r v2-lf88r v3-lf88r v4-lf88r v5-lf88r [U1-mcbd9] [U2-mcbd9]</p>",
       "attrs": {
         "style": "caret-color: transparent !important;"
       }
