@@ -1027,23 +1027,6 @@
       },
       "content": [],
       "children": []
-    },
-    {
-      "id": "probe-end-muuppaqn",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Shared paragraph: two people type here.  [p1-muuph6d8]",
-          "styles": {}
-        }
-      ],
-      "children": []
     }
   ],
   "coverImage": {
